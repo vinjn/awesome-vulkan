@@ -2,52 +2,55 @@
 
 ## Table of Contents
 * **[Hardware Support](#hardware-support)**
+* **[SDK](#sdk)**
 * **[Document](#document)**  
 * **[Samples](#samples)**  
 * **[Frameworks](#frameworks)**
 * **[Tools](#tools)**  
 
 ### Hardware Support
-1.  [gpuinfo for Vulkan](http://vulkan.gpuinfo.org/)
-2.  [Khronos](https://www.khronos.org/vulkan)
-3.  [NVIDIA](https://developer.nvidia.com/Vulkan)
-  1.  [Driver for Desktop](https://developer.nvidia.com/vulkan-driver)
-  2.  [Driver for Android](https://developer.nvidia.com/vulkan-android)
-  3.  [Driver for Linux for Tegra (L4T)](https://developer.nvidia.com/embedded/vulkan)
-4.  [AMD](http://gpuopen.com/gaming-product/vulkan/)
-5.  [Imagination](https://imgtec.com/tools/powervr-early-access-program/)
-6.  [Intel's open source driver](https://01.org/linuxgraphics/blogs/jekstrand/2016/open-source-vulkan-drivers-intel-hardware/)
-7.  [Qualcomm](https://developer.qualcomm.com/software/adreno-gpu-sdk/gpu)
+*  [gpuinfo for Vulkan](http://vulkan.gpuinfo.org/)
+*  [Khronos](https://www.khronos.org/vulkan)
+*  [NVIDIA](https://developer.nvidia.com/Vulkan)
+  *  [Driver for Desktop](https://developer.nvidia.com/vulkan-driver)
+  *  [Driver for Android](https://developer.nvidia.com/vulkan-android)
+  *  [Driver for Linux for Tegra (L4T)](https://developer.nvidia.com/embedded/vulkan)
+*  [AMD](http://gpuopen.com/gaming-product/vulkan/)
+*  [Imagination](https://imgtec.com/tools/powervr-early-access-program/)
+*  [Intel's open source driver](https://01.org/linuxgraphics/blogs/jekstrand/2016/open-source-vulkan-drivers-intel-hardware/)
+*  [Qualcomm](https://developer.qualcomm.com/software/adreno-gpu-sdk/gpu)
 
 ### SDK
-1.  [For Windows & Linux](https://vulkan.lunarg.com/signin)
-2.  [For Android](https://developer.android.com/ndk/guides/graphics/index.html)
+*  [For Windows & Linux](https://vulkan.lunarg.com/signin)
+*  [For Android](https://developer.android.com/ndk/guides/graphics/index.html)
 
 ### Document
-1.  [Khronos Vulkan Registry](https://www.khronos.org/registry/vulkan/)
-  1.  [Vulkan 1.0 Quick Reference] (https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
-  2.  [Vulkan 1.0 Specification](https://www.khronos.org/registry/vulkan/specs/1.0/pdf/vkspec.pdf)
-2.  [Vulkan Programming Guide](http://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540)
-3.  [vulkan-tutorial.com](http://vulkan-tutorial.com/)
+*  [Khronos Vulkan Registry](https://www.khronos.org/registry/vulkan/)
+**  [Vulkan 1.0 Quick Reference] (https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
+**  [Vulkan 1.0 Specification](https://www.khronos.org/registry/vulkan/specs/1.0/pdf/vkspec.pdf)
+*  [Vulkan Programming Guide](http://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540)
+*  [vulkan-tutorial.com](http://vulkan-tutorial.com/)
 
 ### Samples
-1.  [SaschaWillems's samples](https://github.com/SaschaWillems/Vulkan)
-2.  [McNopper's Vulkan examples using VulKan ToolS (VKTS)](https://github.com/McNopper/Vulkan)
-3.  [Overv's tutorial](https://github.com/Overv/VulkanTutorial)
-4.  [KhronosGroup's official samples](https://github.com/KhronosGroup/Vulkan-Samples)
-5.  [KhronosGroup's Conformance Tests](https://github.com/KhronosGroup/Vulkan-CTS)
-6.  [NVIDIA's simple sample](https://github.com/nvpro-samples/gl_vk_chopper)
-7.  [NVIDIA's complicated CAD scene sample](https://github.com/nvpro-samples/gl_vk_threaded_cadscene)
-8.  [LunarG's samples](https://github.com/LunarG/VulkanSamples)
+*  [SaschaWillems's samples](https://github.com/SaschaWillems/Vulkan)
+*  [McNopper's Vulkan examples using VulKan ToolS (VKTS)](https://github.com/McNopper/Vulkan)
+*  [Overv's tutorial](https://github.com/Overv/VulkanTutorial)
+*  [KhronosGroup](https://github.com/KhronosGroup)
+**  [Samples](https://github.com/KhronosGroup/Vulkan-Samples)
+**  [Conformance Tests (CTS)](https://github.com/KhronosGroup/Vulkan-CTS)
+*  [NVIDIA](https://github.com/nvpro-samples)
+**  [gl_vk_chopper](https://github.com/nvpro-samples/gl_vk_chopper)
+**  [complicated CAD scene](https://github.com/nvpro-samples/gl_vk_threaded_cadscene)
+*  [LunarG's samples](https://github.com/LunarG/VulkanSamples)
 
 ### Frameworks
-1.  [Cinder](https://github.com/cinder/Cinder) and [the story](https://libcinder.org/notes/vulkan)  [behind](https://forum.libcinder.org/#Topic/23286000002614007)
-2.  [glfw](https://github.com/glfw/glfw)
-3.  [NVIDIA's C++ Vulkan API](https://github.com/nvpro-pipeline/vkcpp)
-4.  [MetalVK - run Vulkan on iOS and OS X](https://moltengl.com/metalvk/)
+*  [Cinder](https://github.com/cinder/Cinder) and [the story](https://libcinder.org/notes/vulkan)  [behind](https://forum.libcinder.org/#Topic/23286000002614007)
+*  [glfw](https://github.com/glfw/glfw)
+*  [NVIDIA's C++ Vulkan API](https://github.com/nvpro-pipeline/vkcpp)
+*  [MetalVK - run Vulkan on iOS and OS X](https://moltengl.com/metalvk/)
 
 ### Tools
-1.  [KhronosGroup's LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers)
-2.  [renderdoc - a stand-alone graphics debugging tool](https://github.com/baldurk/renderdoc)
-3.  [Tools to aid in Vulkan development including useful layers, trace and replay, Ilo Intel sample driver, and tests](https://github.com/LunarG/VulkanTools)
-4.  [VulkanCapsViewer](https://github.com/SaschaWillems/VulkanCapsViewer)
+*  [KhronosGroup's LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers)
+*  [renderdoc - a stand-alone graphics debugging tool](https://github.com/baldurk/renderdoc)
+*  [LunarG's tools including layers, trace and replay](https://github.com/LunarG/VulkanTools)
+*  [VulkanCapsViewer](https://github.com/SaschaWillems/VulkanCapsViewer)
