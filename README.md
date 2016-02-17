@@ -49,6 +49,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [glfw](https://github.com/glfw/glfw)
 *  [NVIDIA's C++ Vulkan API](https://github.com/nvpro-pipeline/vkcpp)
 *  [MetalVK - run Vulkan on iOS and OS X](https://moltengl.com/metalvk/)
+*  [SharpVulkan](https://github.com/jwollen/SharpVulkan) - C# bindings for Vulkan. [MIT]
 
 ## Tools
 *  [KhronosGroup's LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers)
