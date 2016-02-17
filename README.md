@@ -22,6 +22,8 @@
 
 ### Document
 1.  [Khronos Vulkan Registry](https://www.khronos.org/registry/vulkan/)
+  1.  [Vulkan 1.0 Quick Reference] (https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
+  2.  [Vulkan 1.0 Specification](https://www.khronos.org/registry/vulkan/specs/1.0/pdf/vkspec.pdf)
 2.  [Vulkan Programming Guide](http://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540)
 3.  [vulkan-tutorial.com](http://vulkan-tutorial.com/)
 
@@ -43,5 +45,6 @@
 
 ### Tools
 1.  [KhronosGroup's LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers)
-2.  [Tools to aid in Vulkan development including useful layers, trace and replay, Ilo Intel sample driver, and tests](https://github.com/LunarG/VulkanTools)
-3.  [VulkanCapsViewer](https://github.com/SaschaWillems/VulkanCapsViewer)
+2.  [renderdoc - a stand-alone graphics debugging tool](https://github.com/baldurk/renderdoc)
+3.  [Tools to aid in Vulkan development including useful layers, trace and replay, Ilo Intel sample driver, and tests](https://github.com/LunarG/VulkanTools)
+4.  [VulkanCapsViewer](https://github.com/SaschaWillems/VulkanCapsViewer)
