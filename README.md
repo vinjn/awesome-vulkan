@@ -16,7 +16,7 @@
   3.  [Driver for Linux for Tegra (L4T)](https://developer.nvidia.com/embedded/vulkan)
 4.  [AMD](http://gpuopen.com/gaming-product/vulkan/)
 5.  [Imagination](https://imgtec.com/tools/powervr-early-access-program/)
-6.  [Intel](http://blogs.intel.com/evangelists/2016/02/16/intel-open-source-graphics-drivers-now-support-vulkan/)
+6.  [Intel's open source driver](https://01.org/linuxgraphics/blogs/jekstrand/2016/open-source-vulkan-drivers-intel-hardware/)
 7.  [Qualcomm](https://developer.qualcomm.com/software/adreno-gpu-sdk/gpu)
 
 ### SDK
