@@ -6,7 +6,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 * **[SDK](#sdk)**
 * **[Document](#document)**  
 * **[Samples](#samples)**  
-* **[Frameworks](#frameworks)**
+* **[Libraries](#libraries)**
 * **[Tools](#tools)**  
 
 ## Hardware Support
@@ -44,7 +44,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
  *  [complicated CAD scene](https://github.com/nvpro-samples/gl_vk_threaded_cadscene)
 *  [LunarG's samples](https://github.com/LunarG/VulkanSamples)
 
-## Frameworks
+## Libraries
 *  [Cinder](https://github.com/cinder/Cinder) and [the story](https://libcinder.org/notes/vulkan)  [behind](https://forum.libcinder.org/#Topic/23286000002614007)
 *  [glfw](https://github.com/glfw/glfw)
 *  [NVIDIA's C++ Vulkan API](https://github.com/nvpro-pipeline/vkcpp)
