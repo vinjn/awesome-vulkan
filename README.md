@@ -31,6 +31,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
  *  [Vulkan 1.0 Specification](https://www.khronos.org/registry/vulkan/specs/1.0/pdf/vkspec.pdf)
 *  [Vulkan Programming Guide](http://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540)
 *  [vulkan-tutorial.com](http://vulkan-tutorial.com/)
+*  [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html)
 
 ## Samples
 *  [SaschaWillems's samples](https://github.com/SaschaWillems/Vulkan)
