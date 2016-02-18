@@ -1,5 +1,7 @@
 # Awesome Vulkan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+![](http://vulkan.gpuinfo.org/images/vulkanlogoscene.png)
+
 A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by awesome-... stuff.
 
 * **[Hardware Support](#hardware-support)**
@@ -10,7 +12,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 * **[Tools](#tools)**  
 
 ## Hardware Support
-*  [gpuinfo for Vulkan](http://vulkan.gpuinfo.org/)
+*  [gpuinfo](http://vulkan.gpuinfo.org/) - Vulkan Hardware Database by Sascha Willems
 *  [Khronos](https://www.khronos.org/vulkan)
 *  [NVIDIA](https://developer.nvidia.com/Vulkan)
  *  [Driver for Desktop](https://developer.nvidia.com/vulkan-driver)
@@ -18,7 +20,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
  *  [Driver for Linux for Tegra (L4T)](https://developer.nvidia.com/embedded/vulkan)
 *  [AMD](http://gpuopen.com/gaming-product/vulkan/)
 *  [Imagination](https://imgtec.com/tools/powervr-early-access-program/)
-*  [Intel's open source driver](https://01.org/linuxgraphics/blogs/jekstrand/2016/open-source-vulkan-drivers-intel-hardware/)
+*  [Intel](https://01.org/linuxgraphics/blogs/jekstrand/2016/open-source-vulkan-drivers-intel-hardware/) - open source driver.
 *  [Qualcomm](https://developer.qualcomm.com/software/adreno-gpu-sdk/gpu)
 
 ## SDK
@@ -29,9 +31,9 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [Khronos Vulkan Registry](https://www.khronos.org/registry/vulkan/)
  *  [Vulkan 1.0 Quick Reference] (https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
  *  [Vulkan 1.0 Specification](https://www.khronos.org/registry/vulkan/specs/1.0/pdf/vkspec.pdf)
-*  [Vulkan Programming Guide](http://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540)
+*  [Vulkan Programming Guide](http://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - AKA the red book.
 *  [vulkan-tutorial.com](http://vulkan-tutorial.com/)
-*  [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html)
+*  [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html) - by baldurk.
 *  AMD
   * placeholder 
 *  NVIDIA
@@ -53,16 +55,18 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 
 ## Libraries
 *  [Cinder](https://github.com/cinder/Cinder) and [the story](https://libcinder.org/notes/vulkan)  [behind](https://forum.libcinder.org/#Topic/23286000002614007)
-*  [glfw](https://github.com/glfw/glfw)
+*  [glfw](https://github.com/glfw/glfw) and [the guide](http://www.glfw.org/docs/3.2/vulkan.html)
 *  [NVIDIA's C++ Vulkan API](https://github.com/nvpro-pipeline/vkcpp)
-*  [MetalVK - run Vulkan on iOS and OS X](https://moltengl.com/metalvk/)
+*  [MetalVK](https://moltengl.com/metalvk/) - run Vulkan on iOS and OS X
 *  [SharpVulkan](https://github.com/jwollen/SharpVulkan) - C# bindings for Vulkan. [MIT]
+*  [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings.
 
 ## Tools
-*  [KhronosGroup's LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers)
-*  [renderdoc - a stand-alone graphics debugging tool](https://github.com/baldurk/renderdoc)
-*  [LunarG's tools including layers, trace and replay](https://github.com/LunarG/VulkanTools)
-*  [VulkanCapsViewer](https://github.com/SaschaWillems/VulkanCapsViewer)
+*  [LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. [MIT]
+*  [renderdoc](https://github.com/baldurk/renderdoc) - a stand-alone graphics debugging tool. [MIT]
+*  [VulkanTools](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers, trace and replay. [MIT]
+*  [VulkanCapsViewer](https://github.com/SaschaWillems/VulkanCapsViewer) - Vulkan hardware capability viewer. [GPL]
+
 
 ## Related lists
 
