@@ -32,6 +32,12 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [Vulkan Programming Guide](http://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540)
 *  [vulkan-tutorial.com](http://vulkan-tutorial.com/)
 *  [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html)
+*  AMD
+  * placeholder 
+*  NVIDIA
+  * placeholder 
+*  ARM
+  * [porting-a-graphics-engine-to-the-vulkan-api](https://community.arm.com/groups/arm-mali-graphics/blog/2016/02/16/porting-a-graphics-engine-to-the-vulkan-api)
 
 ## Samples
 *  [SaschaWillems's samples](https://github.com/SaschaWillems/Vulkan)
