@@ -48,17 +48,20 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [KhronosGroup](https://github.com/KhronosGroup)
  *  [Samples](https://github.com/KhronosGroup/Vulkan-Samples)
  *  [Conformance Tests (CTS)](https://github.com/KhronosGroup/Vulkan-CTS)
-*  [NVIDIA](https://github.com/nvpro-samples)
- *  [gl_vk_chopper](https://github.com/nvpro-samples/gl_vk_chopper)
- *  [complicated CAD scene](https://github.com/nvpro-samples/gl_vk_threaded_cadscene)
+*  [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples.
+ *  [gl_vk_chopper](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
+ *  [gl_vk_threaded_cadscene](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using veraious techniques.
+ *  [gl_vk_bk3dthreaded](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
+ *  [gl_vk_supersampled](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
 *  [LunarG's samples](https://github.com/LunarG/VulkanSamples)
-*  [vkcube](https://github.com/krh/vkcube)
+*  [vkcube](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
+drm/kms.
 
 ## Libraries
 *  [Cinder](https://github.com/cinder/Cinder) and [the story](https://libcinder.org/notes/vulkan)  [behind](https://forum.libcinder.org/#Topic/23286000002614007)
 *  [glfw](https://github.com/glfw/glfw) and [the guide](http://www.glfw.org/docs/3.2/vulkan.html)
 *  [NVIDIA's C++ Vulkan API](https://github.com/nvpro-pipeline/vkcpp)
-*  [MetalVK](https://moltengl.com/metalvk/) - run Vulkan on iOS and OS X
+*  [MetalVK](https://moltengl.com/metalvk/) - run Vulkan on iOS and OS X.
 *  [SharpVulkan](https://github.com/jwollen/SharpVulkan) - C# bindings for Vulkan. [MIT]
 *  [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings.
 
@@ -67,7 +70,6 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [renderdoc](https://github.com/baldurk/renderdoc) - a stand-alone graphics debugging tool. [MIT]
 *  [VulkanTools](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers, trace and replay. [MIT]
 *  [VulkanCapsViewer](https://github.com/SaschaWillems/VulkanCapsViewer) - Vulkan hardware capability viewer. [GPL]
-
 
 ## Related lists
 
