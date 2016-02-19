@@ -52,6 +52,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
  *  [gl_vk_chopper](https://github.com/nvpro-samples/gl_vk_chopper)
  *  [complicated CAD scene](https://github.com/nvpro-samples/gl_vk_threaded_cadscene)
 *  [LunarG's samples](https://github.com/LunarG/VulkanSamples)
+*  [vkcube](https://github.com/krh/vkcube)
 
 ## Libraries
 *  [Cinder](https://github.com/cinder/Cinder) and [the story](https://libcinder.org/notes/vulkan)  [behind](https://forum.libcinder.org/#Topic/23286000002614007)
