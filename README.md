@@ -28,16 +28,21 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [For Android](https://developer.android.com/ndk/guides/graphics/index.html)
 
 ## Document
-*  [Khronos Vulkan Registry](https://www.khronos.org/registry/vulkan/)
+*  [Khronos](https://www.khronos.org/registry/vulkan/)
  *  [Vulkan 1.0 Quick Reference] (https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
  *  [Vulkan 1.0 Specification](https://www.khronos.org/registry/vulkan/specs/1.0/pdf/vkspec.pdf)
+ *  [Vk_201602_Overview_Feb16](https://www.khronos.org/assets/uploads/developers/library/overview/Vk_201602_Overview_Feb16.pdf) - Vulkan Launch Briefing.
 *  [Vulkan Programming Guide](http://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - AKA the red book.
 *  [vulkan-tutorial.com](http://vulkan-tutorial.com/)
 *  [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html) - by baldurk.
 *  AMD
   * placeholder 
 *  NVIDIA
-  * placeholder 
+  * [Engaging the Voyage to Vulkan](https://developer.nvidia.com/engaging-voyage-vulkan)
+  * [Vulkan Shader Resource Binding](https://developer.nvidia.com/vulkan-shader-resource-binding)
+  * [Vulkan Memory Management](https://developer.nvidia.com/vulkan-memory-management)
+  * [OpenGL like Vulkan](https://developer.nvidia.com/opengl-vulkan)
+  * [Transitioning from OpenGL to Vulkan](https://developer.nvidia.com/transitioning-opengl-vulkan)
 *  ARM
   * [porting-a-graphics-engine-to-the-vulkan-api](https://community.arm.com/groups/arm-mali-graphics/blog/2016/02/16/porting-a-graphics-engine-to-the-vulkan-api)
 
