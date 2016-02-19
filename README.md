@@ -37,7 +37,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html) - by baldurk.
 *  AMD
   * placeholder 
-*  NVIDIA
+*  [NVIDIA](https://developer.nvidia.com/taxonomy/term/586)
   * [Engaging the Voyage to Vulkan](https://developer.nvidia.com/engaging-voyage-vulkan)
   * [Vulkan Shader Resource Binding](https://developer.nvidia.com/vulkan-shader-resource-binding)
   * [Vulkan Memory Management](https://developer.nvidia.com/vulkan-memory-management)
@@ -45,6 +45,8 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
   * [Transitioning from OpenGL to Vulkan](https://developer.nvidia.com/transitioning-opengl-vulkan)
 *  ARM
   * [porting-a-graphics-engine-to-the-vulkan-api](https://community.arm.com/groups/arm-mali-graphics/blog/2016/02/16/porting-a-graphics-engine-to-the-vulkan-api)
+* Siggraph
+  * [An overview of next-generation graphics APIs](http://nextgenapis.realtimerendering.com/) - covers Vulkan, D3D12 etc.
 
 ## Samples
 *  [SaschaWillems's samples](https://github.com/SaschaWillems/Vulkan)
@@ -55,7 +57,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
  *  [Conformance Tests (CTS)](https://github.com/KhronosGroup/Vulkan-CTS)
 *  [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples.
  *  [gl_vk_chopper](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
- *  [gl_vk_threaded_cadscene](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using veraious techniques.
+ *  [gl_vk_threaded_cadscene](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using veraious techniques and [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) about it.
  *  [gl_vk_bk3dthreaded](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
  *  [gl_vk_supersampled](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
 *  [LunarG's samples](https://github.com/LunarG/VulkanSamples)
@@ -65,14 +67,14 @@ drm/kms.
 ## Libraries
 *  [Cinder](https://github.com/cinder/Cinder) and [the story](https://libcinder.org/notes/vulkan)  [behind](https://forum.libcinder.org/#Topic/23286000002614007)
 *  [glfw](https://github.com/glfw/glfw) and [the guide](http://www.glfw.org/docs/3.2/vulkan.html)
-*  [NVIDIA's C++ Vulkan API](https://github.com/nvpro-pipeline/vkcpp)
+*  [C++ API](https://github.com/nvpro-pipeline/vkcpp) from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
 *  [MetalVK](https://moltengl.com/metalvk/) - run Vulkan on iOS and OS X.
 *  [SharpVulkan](https://github.com/jwollen/SharpVulkan) - C# bindings for Vulkan. [MIT]
 *  [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings.
 
 ## Tools
 *  [LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. [MIT]
-*  [renderdoc](https://github.com/baldurk/renderdoc) - a stand-alone graphics debugging tool. [MIT]
+*  [renderdoc](https://github.com/baldurk/renderdoc) - by baldurk, a stand-alone graphics debugging tool. [MIT]
 *  [VulkanTools](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers, trace and replay. [MIT]
 *  [VulkanCapsViewer](https://github.com/SaschaWillems/VulkanCapsViewer) - Vulkan hardware capability viewer. [GPL]
 
