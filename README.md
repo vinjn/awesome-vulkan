@@ -55,7 +55,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [KhronosGroup](https://github.com/KhronosGroup)
  *  [Samples](https://github.com/KhronosGroup/Vulkan-Samples)
  *  [Conformance Tests (CTS)](https://github.com/KhronosGroup/Vulkan-CTS)
-*  [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples.
+*  [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples. [[LICENSE]](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)
  *  [gl_vk_chopper](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
  *  [gl_vk_threaded_cadscene](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using veraious techniques and [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) about it.
  *  [gl_vk_bk3dthreaded](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
@@ -65,12 +65,12 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 drm/kms.
 
 ## Libraries
-*  [Cinder](https://github.com/cinder/Cinder) and [the story](https://libcinder.org/notes/vulkan)  [behind](https://forum.libcinder.org/#Topic/23286000002614007)
-*  [glfw](https://github.com/glfw/glfw) and [the guide](http://www.glfw.org/docs/3.2/vulkan.html)
+*  [Cinder](https://github.com/cinder/Cinder) and [the story](https://libcinder.org/notes/vulkan) [behind](https://forum.libcinder.org/#Topic/23286000002614007). [BSD]
+*  [glfw](https://github.com/glfw/glfw) and [the guide](http://www.glfw.org/docs/3.2/vulkan.html) [[LICENSE]](https://github.com/glfw/glfw/blob/master/COPYING.txt).
 *  [C++ API](https://github.com/nvpro-pipeline/vkcpp) from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
-*  [MetalVK](https://moltengl.com/metalvk/) - run Vulkan on iOS and OS X.
+*  [MetalVK](https://moltengl.com/metalvk/) - run Vulkan on iOS and OS X. [Non-free]
 *  [SharpVulkan](https://github.com/jwollen/SharpVulkan) - C# bindings for Vulkan. [MIT]
-*  [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings.
+*  [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings. [BSD]
 
 ## Tools
 *  [LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. [MIT]
