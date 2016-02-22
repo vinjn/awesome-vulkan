@@ -18,7 +18,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
  *  [Driver for Desktop](https://developer.nvidia.com/vulkan-driver)
  *  [Driver for Android](https://developer.nvidia.com/vulkan-android)
  *  [Driver for Linux for Tegra (L4T)](https://developer.nvidia.com/embedded/vulkan)
-*  [AMD](http://gpuopen.com/gaming-product/vulkan/)
+*  [AMD](http://support.amd.com/en-us/kb-articles/Pages/Radeon-Vulkan-Beta.aspx)
 *  [Imagination](https://imgtec.com/tools/powervr-early-access-program/)
 *  [Intel](https://01.org/linuxgraphics/blogs/jekstrand/2016/open-source-vulkan-drivers-intel-hardware/) - open source driver.
 *  [Qualcomm](https://developer.qualcomm.com/software/adreno-gpu-sdk/gpu)
@@ -35,8 +35,9 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [Vulkan Programming Guide](http://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - AKA the red book.
 *  [vulkan-tutorial.com](http://vulkan-tutorial.com/)
 *  [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html) - by baldurk.
-*  AMD
-  * placeholder 
+*  [AMD](http://gpuopen.com/gaming-product/vulkan/)
+ *  [Say Hello to a New Rendering API in Town!](http://gpuopen.com/say-hello/)
+ *  [Vulkan Renderpasses](http://gpuopen.com/vulkan-renderpasses/)
 *  [NVIDIA](https://developer.nvidia.com/taxonomy/term/586)
   * [Engaging the Voyage to Vulkan](https://developer.nvidia.com/engaging-voyage-vulkan)
   * [Vulkan Shader Resource Binding](https://developer.nvidia.com/vulkan-shader-resource-binding)
