@@ -54,7 +54,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [The Talos Principle](http://www.croteam.com/talos-principle-will-support-vulkan-first-screenshot-released/) - by Croteam.
 *  [Dota2](https://www.dota2.com/reborn/part3/) - by Valve.
 *  [Basemark](http://www.basemark.com/2015/11/10/basemark-extends-its-benchmarking-lead-with-a-vulkan-performance-test/) - by Basemark.
-*  [GFXBench 5](https://gfxbench.com/benchmark.jsp) - by Kishonti.
+*  [GFXBench 5](https://kishonti.net/news_single.jsp?id=26889751) - by Kishonti.
 
 ## Samples
 *  [SaschaWillems's samples](https://github.com/SaschaWillems/Vulkan)
