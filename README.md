@@ -6,10 +6,11 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 
 * **[Hardware Support](#hardware-support)**
 * **[SDK](#sdk)**
-* **[Document](#document)**  
-* **[Samples](#samples)**  
+* **[Document](#document)**
+* **[Apps](#apps)**
+* **[Samples](#samples)**
 * **[Libraries](#libraries)**
-* **[Tools](#tools)**  
+* **[Tools](#tools)**
 
 ## Hardware Support
 *  [gpuinfo](http://vulkan.gpuinfo.org/) - Vulkan Hardware Database by Sascha Willems
@@ -48,6 +49,12 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
   * [porting-a-graphics-engine-to-the-vulkan-api](https://community.arm.com/groups/arm-mali-graphics/blog/2016/02/16/porting-a-graphics-engine-to-the-vulkan-api)
 * Siggraph
   * [An overview of next-generation graphics APIs](http://nextgenapis.realtimerendering.com/) - covers Vulkan, D3D12 etc.
+
+## Apps
+*  [The Talos Principle](http://www.croteam.com/talos-principle-will-support-vulkan-first-screenshot-released/) - by Croteam.
+*  [Dota2](https://www.dota2.com/reborn/part3/) - by Valve.
+*  [Basemark](http://www.basemark.com/2015/11/10/basemark-extends-its-benchmarking-lead-with-a-vulkan-performance-test/) - by Basemark.
+*  [GFXBench 5](https://gfxbench.com/benchmark.jsp) - by Kishonti.
 
 ## Samples
 *  [SaschaWillems's samples](https://github.com/SaschaWillems/Vulkan)
