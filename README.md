@@ -55,6 +55,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [Dota2](https://www.dota2.com/reborn/part3/) - by Valve.
 *  [Basemark](http://www.basemark.com/2015/11/10/basemark-extends-its-benchmarking-lead-with-a-vulkan-performance-test/) - by Basemark.
 *  [GFXBench 5](https://kishonti.net/news_single.jsp?id=26889751) - by Kishonti.
+*  [ProtoStar](https://www.unrealengine.com/blog/epic-games-unveils-protostar-at-samsung-galaxy-unpacked) - by Epic, built with Unreal Engine 4 technology.
 
 ## Samples
 *  [SaschaWillems's samples](https://github.com/SaschaWillems/Vulkan)
