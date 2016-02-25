@@ -2,7 +2,7 @@
 
 ![](http://vulkan.gpuinfo.org/images/vulkanlogoscene.png)
 
-A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by awesome-... stuff.
+A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by [awesome-opengl](https://github.com/eug/awesome-opengl) and other awesome-... stuff.
 
 * **[Hardware Support](#hardware-support)**
 * **[SDK](#sdk)**
