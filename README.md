@@ -70,6 +70,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
  *  [gl_vk_bk3dthreaded](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
  *  [gl_vk_supersampled](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
 *  [LunarG's samples](https://github.com/LunarG/VulkanSamples)
+*  [Fish Tornado](https://github.com/cinder/Cinder/tree/vulkan/samples/_vulkan_explicit/FishTornado) - by [Robert Hodgin](https://libcinder.org/notes/vulkan) (flight404). [BSD]
 *  [vkcube](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
 drm/kms.
 
