@@ -82,6 +82,7 @@ drm/kms.
 *  [SharpVulkan](https://github.com/jwollen/SharpVulkan) - C# bindings for Vulkan. [MIT]
 *  [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings. [BSD]
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/examples/vulkan/libvulkan.lua) - Lua bindings for Vulkan.
+*  [VulkanizeD](https://github.com/Rikarin/VulkanizeD) - D bindings for vulkan.
 
 ## Tools
 *  [LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. [MIT]
