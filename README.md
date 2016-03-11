@@ -39,6 +39,8 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [AMD](http://gpuopen.com/gaming-product/vulkan/)
  *  [Say Hello to a New Rendering API in Town!](http://gpuopen.com/say-hello/)
  *  [Vulkan Renderpasses](http://gpuopen.com/vulkan-renderpasses/)
+ *  [Performance tweets series: Barriers, fences, synchronization](http://gpuopen.com/performance-tweets-series-barriers-fences-synchronization/)
+ *  [Using the Vulkan™ Validation Layers](http://gpuopen.com/using-the-vulkan-validation-layers/)
 *  [NVIDIA](https://developer.nvidia.com/taxonomy/term/586)
   * [Engaging the Voyage to Vulkan](https://developer.nvidia.com/engaging-voyage-vulkan)
   * [Vulkan Shader Resource Binding](https://developer.nvidia.com/vulkan-shader-resource-binding)
