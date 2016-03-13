@@ -87,6 +87,7 @@ drm/kms.
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/examples/vulkan/libvulkan.lua) - Lua bindings for Vulkan.
 *  [VulkanizeD](https://github.com/Rikarin/VulkanizeD) - D bindings for vulkan.
 *  [Haskell bindings for Vulkan](https://github.com/expipiplus1/vulkan) - [[LICENSE]](https://github.com/expipiplus1/vulkan/blob/master/LICENSE).
+*  [imgui](https://github.com/Loftilus/imgui/tree/master/examples/vulkan_example) - Vulkan renderer backend for imgui. [MIT]
 
 ## Tools
 *  [LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. [MIT]
