@@ -23,6 +23,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [Imagination](https://imgtec.com/tools/powervr-early-access-program/)
 *  [Intel](https://01.org/linuxgraphics/blogs/jekstrand/2016/open-source-vulkan-drivers-intel-hardware/) - open source driver.
 *  [Qualcomm](https://developer.qualcomm.com/software/adreno-gpu-sdk/gpu)
+*  [ARM](http://malideveloper.arm.com/resources/sdks/mali-vulkan-sdk/)
 
 ## SDK
 *  [For Windows & Linux](https://vulkan.lunarg.com/signin)
@@ -53,12 +54,12 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
   * [Siggraph 15 talk - Vulkan on NVIDIA GPUs](http://on-demand.gputechconf.com/siggraph/2015/presentation/SIG1501-Piers-Daniell.pdf)
 *  ARM
   * [porting-a-graphics-engine-to-the-vulkan-api](https://community.arm.com/groups/arm-mali-graphics/blog/2016/02/16/porting-a-graphics-engine-to-the-vulkan-api)
+  * [Mali Vulkan Tutorials](http://malideveloper.arm.com/downloads/deved/tutorial/SDK/Vulkan/1.0/tutorials.html) - Basic Vulkan tutorials from the [Mali Vulkan SDK](http://malideveloper.arm.com/resources/sdks/mali-vulkan-sdk/)
 * Siggraph
   * [An overview of next-generation graphics APIs](http://nextgenapis.realtimerendering.com/) - covers Vulkan, D3D12 etc.
 * Intel
   * [API without Secrets: Introduction to Vulkan](https://github.com/GameTechDev/IntroductionToVulkan) [[LICENSE]](https://github.com/GameTechDev/IntroductionToVulkan/blob/master/license.txt).
-* Mali
-  * [Mali Vulkan Tutorials](http://malideveloper.arm.com/downloads/deved/tutorial/SDK/Vulkan/1.0/tutorials.html) - Basic Vulkan tutorials from the [Mali Vulkan SDK](http://malideveloper.arm.com/resources/sdks/mali-vulkan-sdk/)
+* [Imagination](http://blog.imgtec.com/tag/vulkan)
 
 ## Apps
 *  [The Talos Principle](http://www.croteam.com/talos-principle-will-support-vulkan-first-screenshot-released/) - by Croteam.
