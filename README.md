@@ -97,6 +97,7 @@ drm/kms.
 *  [VulkanizeD](https://github.com/Rikarin/VulkanizeD) - D bindings for vulkan.
 *  [Haskell bindings for Vulkan](https://github.com/expipiplus1/vulkan) - [[LICENSE]](https://github.com/expipiplus1/vulkan/blob/master/LICENSE).
 *  [imgui](https://github.com/Loftilus/imgui/tree/master/examples/vulkan_example) - Vulkan renderer backend for imgui. [MIT]
+*  [libvc](https://github.com/alexhultman/libvc) - Vulkan Compute for C++. [[LICENSE](https://github.com/alexhultman/libvc/blob/master/LICENSE)]
 
 ## Tools
 *  [LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. [MIT]
