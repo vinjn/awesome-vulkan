@@ -21,7 +21,9 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
  *  [Driver for Linux for Tegra (L4T)](https://developer.nvidia.com/embedded/vulkan)
 *  [AMD](http://support.amd.com/en-us/kb-articles/Pages/Radeon-Vulkan-Beta.aspx)
 *  [Imagination](https://imgtec.com/tools/powervr-early-access-program/)
-*  [Intel](https://01.org/linuxgraphics/blogs/jekstrand/2016/open-source-vulkan-drivers-intel-hardware/) - open source driver.
+*  [Intel].
+*   [Open-source Driver](https://01.org/linuxgraphics/blogs/jekstrand/2016/open-source-vulkan-drivers-intel-hardware/)
+*   [Driver for Windows](https://software.intel.com/en-us/blogs/2016/03/14/new-intel-vulkan-beta-1540204404-graphics-driver-for-windows-78110-1540)
 *  [Qualcomm](https://developer.qualcomm.com/software/adreno-gpu-sdk/gpu)
 *  [ARM](http://malideveloper.arm.com/resources/sdks/mali-vulkan-sdk/)
 
@@ -96,7 +98,7 @@ drm/kms.
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/examples/vulkan/libvulkan.lua) - Lua bindings for Vulkan.
 *  [VulkanizeD](https://github.com/Rikarin/VulkanizeD) - D bindings for vulkan.
 *  [Haskell bindings for Vulkan](https://github.com/expipiplus1/vulkan) - [[LICENSE]](https://github.com/expipiplus1/vulkan/blob/master/LICENSE).
-*  [imgui](https://github.com/Loftilus/imgui/tree/master/examples/vulkan_example) - Vulkan renderer backend for imgui. [MIT]
+*  [imgui](https://github.com/ocornut/imgui) - Immediate Mode Graphical User interface. [MIT]
 *  [libvc](https://github.com/alexhultman/libvc) - Vulkan Compute for C++. [[LICENSE](https://github.com/alexhultman/libvc/blob/master/LICENSE)]
 
 ## Tools
