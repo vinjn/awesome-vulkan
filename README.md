@@ -42,11 +42,13 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [vulkan-tutorial.com](http://vulkan-tutorial.com/)
 *  [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html) - by baldurk.
 *  [AMD](http://gpuopen.com/gaming-product/vulkan/)
- *  [GDC 2016 Presentations](http://gpuopen.com/gdc16-wrapup-presentations/)
- *  [Say Hello to a New Rendering API in Town!](http://gpuopen.com/say-hello/)
- *  [Vulkan Renderpasses](http://gpuopen.com/vulkan-renderpasses/)
- *  [Performance tweets series: Barriers, fences, synchronization](http://gpuopen.com/performance-tweets-series-barriers-fences-synchronization/)
- *  [Using the Vulkan™ Validation Layers](http://gpuopen.com/using-the-vulkan-validation-layers/)
+  *   [Vulkan Fast Paths](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/VulkanFastPaths.pdf)
+  *   [Let Your Game Shine – Optimizing DirectX 12 and Vulkan Performance with AMD CodeXL	](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/Let_your_game_shine_optimizing_DirectX-12_and_Vulkan-performance_with_AMD_CodeXL.pdf)
+  *   [D3D12 & Vulkan: Lessons Learned	 ](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/d3d12_vulkan_lessons_learned.pdf)
+  *  [Say Hello to a New Rendering API in Town!](http://gpuopen.com/say-hello/)
+  *  [Vulkan Renderpasses](http://gpuopen.com/vulkan-renderpasses/)
+  *  [Performance tweets series: Barriers, fences, synchronization](http://gpuopen.com/performance-tweets-series-barriers-fences-synchronization/)
+  *  [Using the Vulkan™ Validation Layers](http://gpuopen.com/using-the-vulkan-validation-layers/)
 *  [NVIDIA](https://developer.nvidia.com/taxonomy/term/586)
   * [Engaging the Voyage to Vulkan](https://developer.nvidia.com/engaging-voyage-vulkan)
   * [Vulkan Shader Resource Binding](https://developer.nvidia.com/vulkan-shader-resource-binding)
@@ -62,6 +64,8 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 * Intel
   * [API without Secrets: Introduction to Vulkan](https://github.com/GameTechDev/IntroductionToVulkan) [[LICENSE]](https://github.com/GameTechDev/IntroductionToVulkan/blob/master/license.txt).
 * [Imagination](http://blog.imgtec.com/tag/vulkan)
+  *  [Efficient Rendering with Vulkan on PowerVR](https://imagination-technologies-cloudfront-assets.s3.amazonaws.com/idc-docs/gdc16/6_Efficient%20rendering%20with%20Vulkan%20on%20PowerVR.pdf)
+  *  [Migrating to Vulkan with the New PowerVR Graphics Framework](https://imagination-technologies-cloudfront-assets.s3.amazonaws.com/idc-docs/gdc16/7_FrameworkIDC16.pdf)
 
 ## Apps
 *  [The Talos Principle](http://www.croteam.com/talos-principle-will-support-vulkan-first-screenshot-released/) - by Croteam.
