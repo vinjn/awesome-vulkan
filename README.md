@@ -36,9 +36,8 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [Khronos](https://www.khronos.org/registry/vulkan/)
  *  [Vulkan 1.0 Quick Reference] (https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
  *  [Vulkan 1.0 Specification](https://www.khronos.org/registry/vulkan/specs/1.0/pdf/vkspec.pdf)
- *  [Vulkan Launch Briefing](https://www.khronos.org/assets/uploads/developers/library/overview/Vk_201602_Overview_Feb16.pdf).
  *  [GDC 2016 Presentations](https://www.khronos.org/assets/uploads/developers/library/2016-gdc/Khronos-Vulkan_Mar16.pdf)
-*  [Vulkan Programming Guide](http://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - AKA the red book.
+*  [Vulkan Programming Guide](http://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - AKA the Red Book.
 *  [vulkan-sxs](https://github.com/philiptaylor/vulkan-sxs) - explain the Vulkan API step by step and [vulkan-sync] (https://github.com/philiptaylor/vulkan-sync) - rephrase Vulkan's requirements on execution dependencies in a more precise form. [MIT]
 *  [vulkan-tutorial.com](http://vulkan-tutorial.com/)
 *  [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html) - by baldurk.
@@ -69,7 +68,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
     * [Part 1: The Beginning](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-1)
     * [Part 2: Swap Chain](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-2)
     * [Part 3: First Triangle](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-3)
-* [Imagination](http://blog.imgtec.com/tag/vulkan)i
+* [Imagination](http://blog.imgtec.com/tag/vulkan)
   *  [Efficient Rendering with Vulkan on PowerVR](https://imagination-technologies-cloudfront-assets.s3.amazonaws.com/idc-docs/gdc16/6_Efficient%20rendering%20with%20Vulkan%20on%20PowerVR.pdf)
   *  [Migrating to Vulkan with the New PowerVR Graphics Framework](https://imagination-technologies-cloudfront-assets.s3.amazonaws.com/idc-docs/gdc16/7_FrameworkIDC16.pdf)
 
@@ -92,7 +91,6 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
  *  [gl_vk_bk3dthreaded](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
  *  [gl_vk_supersampled](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
 *  [LunarG's samples](https://github.com/LunarG/VulkanSamples)
-*  [Fish Tornado](https://github.com/cinder/Cinder/tree/vulkan/samples/_vulkan_explicit/FishTornado) - by [Robert Hodgin](https://libcinder.org/notes/vulkan) (flight404). [BSD]
 *  [vkcube](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
 drm/kms.
 
