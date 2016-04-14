@@ -10,6 +10,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 * **[Apps](#apps)**
 * **[Samples](#samples)**
 * **[Libraries](#libraries)**
+* **[Bindings](#bindings)**
 * **[Tools](#tools)**
 
 ## Hardware Support
@@ -82,7 +83,6 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 ## Samples
 *  [SaschaWillems's samples](https://github.com/SaschaWillems/Vulkan)
 *  [McNopper's Vulkan examples using VulKan ToolS (VKTS)](https://github.com/McNopper/Vulkan)
-*  [Overv's tutorial](https://github.com/Overv/VulkanTutorial)
 *  [KhronosGroup](https://github.com/KhronosGroup)
  *  [Samples](https://github.com/KhronosGroup/Vulkan-Samples)
  *  [Conformance Tests (CTS)](https://github.com/KhronosGroup/Vulkan-CTS)
@@ -101,17 +101,19 @@ drm/kms.
 *  [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform rendering library, bgfx backend is WIP. [[LICENSE](https://github.com/bkaradzic/bgfx/blob/master/LICENSE)]
 *  [PowerVR SDK](https://github.com/powervr-graphics/Native_SDK) - C++ cross-platform 3D graphics SDK to speed up development of Vulkan and GLES. [[LICENSE](https://github.com/powervr-graphics/Native_SDK/blob/4.1/LICENSE_POWERVR_SDK.txt)]
 *  [glfw](https://github.com/glfw/glfw) and [the guide](http://www.glfw.org/docs/3.2/vulkan.html).  [[LICENSE]](https://github.com/glfw/glfw/blob/master/COPYING.txt)
-*  [C++ API](https://github.com/nvpro-pipeline/vkcpp) from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
 *  [MetalVK](https://moltengl.com/metalvk/) - run Vulkan on iOS and OS X. [Non-free]
-*  [SharpVulkan](https://github.com/jwollen/SharpVulkan) - C# bindings for Vulkan. [MIT]
-*  [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings. [BSD]
-*  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/examples/vulkan/libvulkan.lua) - Lua bindings for Vulkan.
-*  [VulkanizeD](https://github.com/Rikarin/VulkanizeD) - D bindings for vulkan.
-*  [dvulkan](https://github.com/ColonelThirtyTwo/dvulkan) - Auto-generated D bindings for Vulkan.
-*  [Haskell bindings for Vulkan](https://github.com/expipiplus1/vulkan) - [[LICENSE]](https://github.com/expipiplus1/vulkan/blob/master/LICENSE).
 *  [imgui](https://github.com/ocornut/imgui) - Immediate Mode Graphical User interface. [MIT]
 *  [libvc](https://github.com/alexhultman/libvc) - Vulkan Compute for C++.  [[LICENSE](https://github.com/alexhultman/libvc/blob/master/LICENSE)]
 
+## Bindings
+*  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/examples/vulkan/libvulkan.lua) - Lua bindings for Vulkan.
+*  [dvulkan](https://github.com/ColonelThirtyTwo/dvulkan) - Auto-generated D bindings for Vulkan.
+*  [Haskell bindings for Vulkan](https://github.com/expipiplus1/vulkan) - [[LICENSE]](https://github.com/expipiplus1/vulkan/blob/master/LICENSE).
+*  [vkcpp](https://github.com/nvpro-pipeline/vkcpp) from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
+*  [VulkanSharp](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. [MIT]
+*  [Vulkano](https://github.com/tomaka/vulkano) - Safe and rich Rust wrapper around the Vulkan API. [MIT]
+*  [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings. [BSD]
+  
 ## Tools
 *  [LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. [MIT]
 *  [renderdoc](https://github.com/baldurk/renderdoc) - by baldurk, a stand-alone graphics debugging tool. [MIT]
