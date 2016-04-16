@@ -85,6 +85,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [KhronosGroup](https://github.com/KhronosGroup)
  *  [Samples](https://github.com/KhronosGroup/Vulkan-Samples)
  *  [Conformance Tests (CTS)](https://github.com/KhronosGroup/Vulkan-CTS)
+*  [Google Android samples](https://github.com/googlesamples/vulkan-basic-samples).
 *  [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples. [[LICENSE]](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)
  *  [gl_vk_chopper](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
  *  [gl_vk_threaded_cadscene](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using veraious techniques and [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) about it.
@@ -115,8 +116,7 @@ drm/kms.
 ## Tools
 *  [LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. [MIT]
 *  [renderdoc](https://github.com/baldurk/renderdoc) - by baldurk, a stand-alone graphics debugging tool. [MIT]
-*  [VulkanTools](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers, trace and replay. [MIT]
-*  [VulkanCapsViewer](https://github.com/SaschaWillems/VulkanCapsViewer) - Vulkan hardware capability viewer. [GPL]
+*  [VulkanTools](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers, `vktrace` and `vkreplay`. [MIT]
 
 ## Related lists
 
