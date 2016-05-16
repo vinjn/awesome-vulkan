@@ -6,7 +6,8 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 
 * **[Hardware Support](#hardware-support)**
 * **[SDK](#sdk)**
-* **[Document](#document)**
+* **[IHV Document](#document)**
+* **[Tutorial](#tutorial)**
 * **[Apps](#apps)**
 * **[Samples](#samples)**
 * **[Libraries](#libraries)**
@@ -33,13 +34,6 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [For Android](https://developer.android.com/ndk/guides/graphics/index.html)
 
 ## Document
-*  [Khronos](https://www.khronos.org/registry/vulkan/)
- *  [Vulkan 1.0 Quick Reference] (https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
- *  [Vulkan 1.0 Specification](https://www.khronos.org/registry/vulkan/specs/1.0-wsi_extensions/pdf/vkspec.pdf)
- *  [GDC 2016 Presentations](https://www.khronos.org/assets/uploads/developers/library/2016-gdc/Khronos-Vulkan_Mar16.pdf)
-*  [Vulkan Programming Guide](http://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - AKA the Red Book.
-*  [vulkan-sxs](https://github.com/philiptaylor/vulkan-sxs) - explain the Vulkan API step by step and [vulkan-sync] (https://github.com/philiptaylor/vulkan-sync) - rephrase Vulkan's requirements on execution dependencies in a more precise form. [MIT]
-*  [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html) - by baldurk.
 *  [AMD](http://gpuopen.com/gaming-product/vulkan/)
   *   [Vulkan Fast Paths](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/VulkanFastPaths.pdf)
   *   [Let Your Game Shine – Optimizing DirectX 12 and Vulkan Performance with AMD CodeXL	](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/Let_your_game_shine_optimizing_DirectX-12_and_Vulkan-performance_with_AMD_CodeXL.pdf)
@@ -64,8 +58,6 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
   * [Vulkan's Key Features on ARM Architecture](http://malideveloper.arm.com/downloads/Presentations/GDC%202016/Theatre/Vulkan%20API%20key%20features%20on%20ARM%20architecture.pdf)
   * [Get Your Engine Ready for Vulkan on Mobile](http://malideveloper.arm.com/downloads/Presentations/GDC%202016/Theatre/Get%20Your%20Engine%20Ready%20for%20Vulkan%20on%20Mobile.pdf)
   * [Mali Vulkan Tutorials](http://malideveloper.arm.com/downloads/deved/tutorial/SDK/Vulkan/1.0/tutorials.html) - Basic Vulkan tutorials from the [Mali Vulkan SDK](http://malideveloper.arm.com/resources/sdks/mali-vulkan-sdk/)
-* Siggraph
-  * [An overview of next-generation graphics APIs](http://nextgenapis.realtimerendering.com/) - covers Vulkan, D3D12 etc.
 * Intel
   * [API without Secrets: Introduction to Vulkan](https://github.com/GameTechDev/IntroductionToVulkan) [[LICENSE]](https://github.com/GameTechDev/IntroductionToVulkan/blob/master/license.txt).
     * [Part 1: The Beginning](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-1)
@@ -74,7 +66,18 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 * [Imagination](http://blog.imgtec.com/tag/vulkan)
   *  [Efficient Rendering with Vulkan on PowerVR](https://imagination-technologies-cloudfront-assets.s3.amazonaws.com/idc-docs/gdc16/6_Efficient%20rendering%20with%20Vulkan%20on%20PowerVR.pdf)
   *  [Migrating to Vulkan with the New PowerVR Graphics Framework](https://imagination-technologies-cloudfront-assets.s3.amazonaws.com/idc-docs/gdc16/7_FrameworkIDC16.pdf)
-  *  [jhenriques's tutorial](http://av.dfki.de/~jhenriques/development.html)
+
+## Tutorial
+*  [jhenriques's tutorial](http://av.dfki.de/~jhenriques/development.html)
+*  [Khronos](https://www.khronos.org/registry/vulkan/)
+ *  [Vulkan 1.0 Quick Reference] (https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
+ *  [Vulkan 1.0 Specification](https://www.khronos.org/registry/vulkan/specs/1.0-wsi_extensions/pdf/vkspec.pdf)
+ *  [GDC 2016 Presentations](https://www.khronos.org/assets/uploads/developers/library/2016-gdc/Khronos-Vulkan_Mar16.pdf)
+*  [Vulkan Programming Guide](http://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - AKA the Red Book.
+* Siggraph
+  * [An overview of next-generation graphics APIs](http://nextgenapis.realtimerendering.com/) - covers Vulkan, D3D12 etc.
+*  [vulkan-sxs](https://github.com/philiptaylor/vulkan-sxs) - explain the Vulkan API step by step and [vulkan-sync] (https://github.com/philiptaylor/vulkan-sync) - rephrase Vulkan's requirements on execution dependencies in a more precise form. [MIT]
+*  [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html) - by baldurk.
 
 ## Apps
 *  [The Talos Principle](http://www.croteam.com/talos-principle-will-support-vulkan-first-screenshot-released/) - by Croteam.
