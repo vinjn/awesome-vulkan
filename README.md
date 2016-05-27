@@ -95,7 +95,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
  *  [Samples](https://github.com/KhronosGroup/Vulkan-Samples)
  *  [Conformance Tests (CTS)](https://github.com/KhronosGroup/Vulkan-CTS)
 *  Google
- *  [basic samples](https://github.com/googlesamples/vulkan-basic-samples).
+ *  [Android port of LunarG samples](https://github.com/googlesamples/vulkan-basic-samples).
  *  [android tutorials](https://github.com/googlesamples/android-vulkan-tutorials).
 *  [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples. [[LICENSE](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)]
  *  [gl_vk_chopper](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
