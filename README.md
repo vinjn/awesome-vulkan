@@ -89,7 +89,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [Doom](https://en.wikipedia.org/wiki/Doom_(2016_video_game)) - by id Software.
 
 ## Samples
-*  Sascha Willems's [samples](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of  Sponza](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos_meetup_munich](file:///C:/Users/vincentz/Downloads/Khronos_meetup_munich_fromGLtoVulkan.pdf).
+*  Sascha Willems's [samples](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of  Sponza](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos_meetup_munich](https://github.com/SaschaWillems/Vulkan/blob/master/documentation/Khronos_meetup_munich_fromGLtoVulkan.pdf).
 *  McNopper's [examples](https://github.com/McNopper/Vulkan)
 *  [KhronosGroup](https://github.com/KhronosGroup)
  *  [Samples](https://github.com/KhronosGroup/Vulkan-Samples)
