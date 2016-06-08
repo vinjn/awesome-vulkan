@@ -16,7 +16,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 
 ## Hardware Support
 *  [gpuinfo](http://vulkan.gpuinfo.org/) - Vulkan Hardware Database by Sascha Willems
-*  [Khronos](https://www.khronos.org/vulkan)
+*  [Khronos](https://www.khronos.org/vulkan)k
 *  [NVIDIA](https://developer.nvidia.com/Vulkan)
  *  [Driver for Desktop](https://developer.nvidia.com/vulkan-driver)
  *  [Driver for Android](https://developer.nvidia.com/vulkan-android)
@@ -71,9 +71,10 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 ## Tutorial
 *  [jhenriques's tutorial](http://av.dfki.de/~jhenriques/development.html)
 *  [Khronos](https://www.khronos.org/registry/vulkan/)
- *  [Vulkan 1.0 Quick Reference] (https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
+ *  [Vulkan 1.0 Quick Reference](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
  *  [Vulkan 1.0 Specification](https://www.khronos.org/registry/vulkan/specs/1.0-wsi_extensions/pdf/vkspec.pdf)
  *  [GDC 2016 Presentations](https://www.khronos.org/assets/uploads/developers/library/2016-gdc/Khronos-Vulkan_Mar16.pdf)
+ *  [Moving to Vulkan Khronos UK May16](https://www.khronos.org/assets/uploads/developers/library/2016-uk-chapter-moving-to-vulkan/Moving-to-Vulkan_Khronos-UK_May16.pdf)
 *  [Vulkan Programming Guide](http://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - AKA the Red Book.
 * Siggraph
   * [An overview of next-generation graphics APIs](http://nextgenapis.realtimerendering.com/) - covers Vulkan, D3D12 etc.
