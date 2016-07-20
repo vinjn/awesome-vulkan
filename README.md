@@ -16,7 +16,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 
 ## Hardware Support
 *  [gpuinfo](http://vulkan.gpuinfo.org/) - Vulkan Hardware Database by Sascha Willems
-*  [Khronos](https://www.khronos.org/vulkan)k
+*  [Khronos](https://www.khronos.org/vulkan)
 *  [NVIDIA](https://developer.nvidia.com/Vulkan)
  *  [Driver for Desktop](https://developer.nvidia.com/vulkan-driver)
  *  [Driver for Android](https://developer.nvidia.com/vulkan-android)
