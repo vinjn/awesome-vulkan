@@ -130,7 +130,7 @@ drm/kms.
 *  [dvulkan](https://github.com/ColonelThirtyTwo/dvulkan) - Auto-generated D bindings for Vulkan.
 *  [ErupteD](https://github.com/ParticlePeter/ErupteD) - Another Auto-generated D bindings for Vulkan.
 *  [Haskell bindings for Vulkan](https://github.com/expipiplus1/vulkan) - [[LICENSE](https://github.com/expipiplus1/vulkan/blob/master/LICENSE)]
-*  [vkcpp](https://github.com/nvpro-pipeline/vkcpp) C++ binding from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
+*  [vkcpp](https://github.com/nvpro-pipeline/vkcpp) aka [Vulkan-hpp](https://github.com/KhronosGroup/Vulkan-Hpp) C++ binding from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
 *  [VulkanSharp](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. [MIT]
 *  [Vulkano](https://github.com/tomaka/vulkano) - Safe and rich Rust wrapper around the Vulkan API. [MIT]
 *  [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings. [BSD]
