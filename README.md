@@ -65,8 +65,12 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
     * [Part 2: Swap Chain](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-2)
     * [Part 3: First Triangle](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-3)
 * [Imagination](http://blog.imgtec.com/tag/vulkan)
-  *  [Efficient Rendering with Vulkan on PowerVR](https://imagination-technologies-cloudfront-assets.s3.amazonaws.com/idc-docs/gdc16/6_Efficient%20rendering%20with%20Vulkan%20on%20PowerVR.pdf)
+  * [Efficient Rendering with Vulkan on PowerVR](https://imagination-technologies-cloudfront-assets.s3.amazonaws.com/idc-docs/gdc16/6_Efficient%20rendering%20with%20Vulkan%20on%20PowerVR.pdf)
   *  [Migrating to Vulkan with the New PowerVR Graphics Framework](https://imagination-technologies-cloudfront-assets.s3.amazonaws.com/idc-docs/gdc16/7_FrameworkIDC16.pdf)
+* Samgsung
+  * [Siggraph 2016 - Best Practices for Mobile](https://community.arm.com/servlet/JiveServlet/download/96891546-24708/6-mmg-siggraph2016-vulkan-smedis.pdf)
+* Epic
+  * [Efficient use of Vulkan on UE4 Mobile](https://community.arm.com/servlet/JiveServlet/download/96891546-24708/6-mmg-siggraph2016-vulkan-smedis.pdf)
 
 ## Tutorial
 *  [jhenriques's tutorial](http://av.dfki.de/~jhenriques/development.html)
