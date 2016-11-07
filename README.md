@@ -34,7 +34,8 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [For Android](https://developer.android.com/ndk/guides/graphics/index.html)
 
 ## Document
-*  [AMD](http://gpuopen.com/gaming-product/vulkan/)
+*  [AMD](http://gpuopen.com/tag/vulkan/)
+  *   [Vulkan barriers explained](http://gpuopen.com/vulkan-barriers-explained/)
   *   [Vulkan Fast Paths](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/VulkanFastPaths.pdf)
   *   [Let Your Game Shine – Optimizing DirectX 12 and Vulkan Performance with AMD CodeXL	](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/Let_your_game_shine_optimizing_DirectX-12_and_Vulkan-performance_with_AMD_CodeXL.pdf)
   *   [D3D12 & Vulkan: Lessons Learned	 ](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/d3d12_vulkan_lessons_learned.pdf)
@@ -44,6 +45,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
   *  [Using the Vulkan™ Validation Layers](http://gpuopen.com/using-the-vulkan-validation-layers/)
   *  [Most common mistakes in Vulkan apps](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/Most-common-mistakes-in-Vulkan-apps.pdf)
 *  [NVIDIA](https://developer.nvidia.com/taxonomy/term/586)
+  * [Getting Vulkan Ready For VR](https://developer.nvidia.com/getting-vulkan-ready-vr)
   * [GPU-Driven Rendering](http://on-demand.gputechconf.com/gtc/2016/presentation/s6138-christoph-kubisch-pierre-boudier-gpu-driven-rendering.pdf) 
   * [GDC 16 - High-performance, Low-Overhead Rendering with OpenGL and Vulkan](http://developer.download.nvidia.com/gameworks/events/GDC2016/mschott_lbishop_gl_vulkan.pdf)  
   * [GDC 16 - Vulkan and NVIDIA – The Essentials](http://developer.download.nvidia.com/gameworks/events/GDC2016/Vulkan_Essentials_GDC16_tlorach.pdf)
