@@ -140,7 +140,7 @@ drm/kms.
 *  [Vookoo](https://github.com/andy-thomason/Vookoo) - Vulkan Utititles Library. [MIT]
 *  [vpp](https://github.com/nyorain/vpp) - Modern C++ Vulkan Abstraction focused on performance and a straightforward interface. [MIT]
 *  [Intrinsic Engine](http://www.intrinsic-engine.com/) - Intrinsic is a Vulkan based cross-platform graphics and game engine. [GPL]
-*  [OpenGL Overload](https://github.com/g-truc/glo) - OpenGL implementation on top of Vulkan.
+*  [glo / OpenGL Overload](https://github.com/g-truc/glo) - OpenGL implementation on top of Vulkan.
 
 ## Bindings
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/examples/vulkan/libvulkan.lua) - Lua bindings for Vulkan.
