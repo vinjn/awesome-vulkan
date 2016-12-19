@@ -164,12 +164,10 @@ drm/kms.
 *  [Mali Graphics Debugger](http://malideveloper.arm.com/resources/tools/mali-graphics-debugger/).
 
 ## Related lists
-
-*Similar awesome lists*
-* [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
-* [awesome-opengl](https://github.com/eug/awesome-opengl) - A curated list of awesome OpenGL libraries, debuggers and resources.
-* [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development.
-* [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
+*  [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
+*  [awesome-opengl](https://github.com/eug/awesome-opengl) - A curated list of awesome OpenGL libraries, debuggers and resources.
+*  [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development.
+*  [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
 
 ## License
 
