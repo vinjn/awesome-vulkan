@@ -18,14 +18,14 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [gpuinfo](http://vulkan.gpuinfo.org/) - Vulkan Hardware Database by Sascha Willems
 *  [Khronos](https://www.khronos.org/vulkan)
 *  [NVIDIA](https://developer.nvidia.com/Vulkan)
- *  [Driver for Desktop](https://developer.nvidia.com/vulkan-driver)
- *  [Driver for Android](https://developer.nvidia.com/vulkan-android)
- *  [Driver for Linux for Tegra (L4T)](https://developer.nvidia.com/embedded/vulkan)
+  *  [Driver for Desktop](https://developer.nvidia.com/vulkan-driver)
+  *  [Driver for Android](https://developer.nvidia.com/vulkan-android)
+  *  [Driver for Linux for Tegra (L4T)](https://developer.nvidia.com/embedded/vulkan)
 *  [AMD](http://support.amd.com/en-us/kb-articles/Pages/Radeon-Vulkan-Beta.aspx)
 *  [Imagination](https://imgtec.com/tools/powervr-early-access-program/)
 *  Intel
- *  [Open-source Driver](https://01.org/linuxgraphics/blogs/jekstrand/2016/open-source-vulkan-drivers-intel-hardware/)
- *  [Driver for Windows](https://software.intel.com/en-us/blogs/2016/03/14/new-intel-vulkan-beta-1540204404-graphics-driver-for-windows-78110-1540)
+  *  [Open-source Driver](https://01.org/linuxgraphics/blogs/jekstrand/2016/open-source-vulkan-drivers-intel-hardware/)
+  *  [Driver for Windows](https://software.intel.com/en-us/blogs/2016/03/14/new-intel-vulkan-beta-1540204404-graphics-driver-for-windows-78110-1540)
 *  [Qualcomm](https://developer.qualcomm.com/software/adreno-gpu-sdk/gpu)
 *  [ARM](http://malideveloper.arm.com/resources/sdks/mali-vulkan-sdk/)
 
@@ -79,11 +79,11 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 ## Tutorial
 *  [jhenriques's tutorial](http://av.dfki.de/~jhenriques/development.html)
 *  [Khronos](https://www.khronos.org/registry/vulkan/)
- *  [Vulkan 1.0 Quick Reference](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
- *  [Vulkan 1.0 Specification](https://www.khronos.org/registry/vulkan/specs/1.0-wsi_extensions/pdf/vkspec.pdf)
- *  [GDC 2016 Presentations](https://www.khronos.org/developers/library/2016-gdc)
- *  [Moving to Vulkan Khronos UK May16](https://www.khronos.org/assets/uploads/developers/library/2016-uk-chapter-moving-to-vulkan/Moving-to-Vulkan_Khronos-UK_May16.pdf)
- *  [SIGGRPAH 2016 3D BOF](https://www.khronos.org/assets/uploads/developers/library/2016-siggraph/Khronos-3D-BOF-SIGGRAPH_Jul16.pdf)
+  *  [Vulkan 1.0 Quick Reference](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
+  *  [Vulkan 1.0 Specification](https://www.khronos.org/registry/vulkan/specs/1.0-wsi_extensions/pdf/vkspec.pdf)
+  *  [GDC 2016 Presentations](https://www.khronos.org/developers/library/2016-gdc)
+  *  [Moving to Vulkan Khronos UK May16](https://www.khronos.org/assets/uploads/developers/library/2016-uk-chapter-moving-to-vulkan/Moving-to-Vulkan_Khronos-UK_May16.pdf)
+  *  [SIGGRPAH 2016 3D BOF](https://www.khronos.org/assets/uploads/developers/library/2016-siggraph/Khronos-3D-BOF-SIGGRAPH_Jul16.pdf)
 *  [Vulkan Programming Guide](http://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - AKA the Red Book.
 *  [Lunarg's tutorial](https://vulkan.lunarg.com/doc/sdk/1.0.26.0/windows/tutorial.html)
 * Siggraph
@@ -108,16 +108,16 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  Sascha Willems's [samples](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of  Sponza](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos_meetup_munich](https://github.com/SaschaWillems/Vulkan/blob/master/documentation/Khronos_meetup_munich_fromGLtoVulkan.pdf).
 *  McNopper's [examples](https://github.com/McNopper/Vulkan)
 *  [KhronosGroup](https://github.com/KhronosGroup)
- *  [Samples](https://github.com/KhronosGroup/Vulkan-Samples)
- *  [Conformance Tests (CTS)](https://github.com/KhronosGroup/Vulkan-CTS)
+  *  [Samples](https://github.com/KhronosGroup/Vulkan-Samples)
+  *  [Conformance Tests (CTS)](https://github.com/KhronosGroup/Vulkan-CTS)
 *  Google
- *  [Android port of LunarG samples](https://github.com/googlesamples/vulkan-basic-samples).
- *  [android tutorials](https://github.com/googlesamples/android-vulkan-tutorials).
+  *  [Android port of LunarG samples](https://github.com/googlesamples/vulkan-basic-samples).
+  *  [android tutorials](https://github.com/googlesamples/android-vulkan-tutorials).
 *  [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples. [[LICENSE](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)]
- *  [gl_vk_chopper](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
- *  [gl_vk_threaded_cadscene](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using veraious techniques and [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) about it.
- *  [gl_vk_bk3dthreaded](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
- *  [gl_vk_supersampled](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
+  *  [gl_vk_chopper](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
+  *  [gl_vk_threaded_cadscene](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using veraious techniques and [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) about it.
+  *  [gl_vk_bk3dthreaded](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
+  *  [gl_vk_supersampled](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
 *  [NVIDIA GameWorks Samples](https://github.com/NVIDIAGameWorks/GraphicsSamples) - GameWorks cross-platform graphics API samples. [[LICENSE](https://github.com/NVIDIAGameWorks/GraphicsSamples/blob/master/license.txt)]
 *  [LunarG's samples](https://github.com/LunarG/VulkanSamples)
 *  [vkcube](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
