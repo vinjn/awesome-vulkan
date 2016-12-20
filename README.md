@@ -18,9 +18,9 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [gpuinfo](http://vulkan.gpuinfo.org/) - Vulkan Hardware Database by Sascha Willems
 *  [Khronos](https://www.khronos.org/vulkan)
 *  [NVIDIA](https://developer.nvidia.com/Vulkan)
-  *  [Driver for Desktop](https://developer.nvidia.com/vulkan-driver)
-  *  [Driver for Android](https://developer.nvidia.com/vulkan-android)
-  *  [Driver for Linux for Tegra (L4T)](https://developer.nvidia.com/embedded/vulkan)
+   *  [Driver for Desktop](https://developer.nvidia.com/vulkan-driver)
+   *  [Driver for Android](https://developer.nvidia.com/vulkan-android)
+   *  [Driver for Linux for Tegra (L4T)](https://developer.nvidia.com/embedded/vulkan)
 *  [AMD](http://support.amd.com/en-us/kb-articles/Pages/Radeon-Vulkan-Beta.aspx)
 *  [Imagination](https://imgtec.com/tools/powervr-early-access-program/)
 *  Intel
