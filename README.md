@@ -129,6 +129,7 @@ drm/kms.
 *  [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer) - VFPR - a Vulkan Forward Plus Renderer. [MIT]
 *  [Laugh Engine](https://github.com/jian-ru/laugh_engine) - A Vulkan implementation of real-time PBR renderer.
 *  [tinyrenderers](https://github.com/chaoticbob/tinyrenderers) - Single header implemenations of Vulkan and D3D12 renderers.
+*  [TLVulkanRenderer](https://github.com/trungtle/TLVulkanRenderer) - A simple Vulkan-based renderer for my master thesis on real-time transparency. [CC BY-SA 4.0]
 
 ## Libraries
 *  [Cinder](https://github.com/cinder/Cinder) and [the story](https://libcinder.org/notes/vulkan) [behind](https://forum.libcinder.org/#Topic/23286000002614007). [BSD]
