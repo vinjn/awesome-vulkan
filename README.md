@@ -103,6 +103,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [ProtoStar](https://www.unrealengine.com/blog/epic-games-unveils-protostar-at-samsung-galaxy-unpacked) - by Epic, built with Unreal Engine 4 technology.
 *  [Doom](https://en.wikipedia.org/wiki/Doom_(2016_video_game)) - by id Software.
 *  [vkQuake](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm. [GPL]
+*  [Linux port of SteamVR](https://github.com/ValveSoftware/SteamVR-for-Linux) - SteamVR is built on top of the Vulkan API.
 
 ## Samples
 *  Sascha Willems's [samples](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of  Sponza](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos_meetup_munich](https://github.com/SaschaWillems/Vulkan/blob/master/documentation/Khronos_meetup_munich_fromGLtoVulkan.pdf).
