@@ -93,7 +93,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [Tutorial by Overv](https://vulkan-tutorial.com/) and [its github repository](https://github.com/Overv/VulkanTutorial). [CC BY-SA 4.0]
 *  [Vulkan Demos and Tutorials](https://github.com/Z80Fan/VulkanDemos) [MIT].
 *  [Qualcomm Video Tutorial Series](https://developer.qualcomm.com/software/adreno-gpu-sdk/tutorial-videos) - Leans more towards Vulkan for mobile devices.
-*  [raw-vulkan](https://alain.xyz/blog/raw-vulkan) - An overview on how to program a Vulkan application from the ground up.
+*  [Raw Vulkan](https://alain.xyz/blog/raw-vulkan) - An overview on how to program a Vulkan application from the ground up.
 
 ## Apps
 *  [The Talos Principle](http://www.croteam.com/talos-principle-will-support-vulkan-first-screenshot-released/) - by Croteam.
@@ -131,6 +131,7 @@ drm/kms.
 *  [Laugh Engine](https://github.com/jian-ru/laugh_engine) - A Vulkan implementation of real-time PBR renderer.
 *  [tinyrenderers](https://github.com/chaoticbob/tinyrenderers) - Single header implemenations of Vulkan and D3D12 renderers.
 *  [TLVulkanRenderer](https://github.com/trungtle/TLVulkanRenderer) - A simple Vulkan-based renderer for my master thesis on real-time transparency. [CC BY-SA 4.0]
+* [Vulkan-Hpp Samples](https://github.com/jherico/Vulkan) - A fork of Sascha Willems excellent Vulkan examples that uses Vulkan-Hpp.
 
 ## Libraries
 *  [Cinder](https://github.com/cinder/Cinder) and [the story](https://libcinder.org/notes/vulkan) [behind](https://forum.libcinder.org/#Topic/23286000002614007). [BSD]
