@@ -150,6 +150,7 @@ drm/kms.
 *  [Intrinsic Engine](http://www.intrinsic-engine.com/) - Intrinsic is a Vulkan based cross-platform graphics and game engine. [GPL]
 *  [glo / OpenGL Overload](https://github.com/g-truc/glo) - OpenGL implementation on top of Vulkan.
 *  [Spectrum](https://github.com/mwalczyk/spectrum_core) - A work-in-progress framework and abstraction layer around Vulkan. 
+*  [SDL_vulkan](https://github.com/corngood/SDL_vulkan) - A library for creating Vulkan surfaces for SDL2 windows. [MIT]
 
 ## Bindings
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/examples/vulkan/libvulkan.lua) - Lua bindings for Vulkan.
