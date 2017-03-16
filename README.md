@@ -131,7 +131,8 @@ drm/kms.
 *  [Laugh Engine](https://github.com/jian-ru/laugh_engine) - A Vulkan implementation of real-time PBR renderer.
 *  [tinyrenderers](https://github.com/chaoticbob/tinyrenderers) - Single header implemenations of Vulkan and D3D12 renderers.
 *  [TLVulkanRenderer](https://github.com/trungtle/TLVulkanRenderer) - A simple Vulkan-based renderer for my master thesis on real-time transparency. [CC BY-SA 4.0]
-* [Vulkan-Hpp Samples](https://github.com/jherico/Vulkan) - A fork of Sascha Willems excellent Vulkan examples that uses Vulkan-Hpp.
+*  [Vulkan-Hpp Samples](https://github.com/jherico/Vulkan) - A fork of Sascha Willems excellent Vulkan examples that uses Vulkan-Hpp.
+*  [SDF Font Demo](https://github.com/kocsis1david/font-demo) - Text rendering in Vulkan by estimating signed distance. [MIT]
 
 ## Libraries
 *  [Cinder](https://github.com/cinder/Cinder) and [the story](https://libcinder.org/notes/vulkan) [behind](https://forum.libcinder.org/#Topic/23286000002614007). [BSD]
