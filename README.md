@@ -148,7 +148,7 @@ drm/kms.
 *  [Google's vulkan-cpp-library](https://github.com/google/vulkan-cpp-library) - Vulkan abstraction library using C++11 for memory, resource management, type and thread safety as well as system independency. [Apache]
 *  [Vookoo](https://github.com/andy-thomason/Vookoo) - Vulkan Utititles Library. [MIT]
 *  [vpp](https://github.com/nyorain/vpp) - Modern C++ Vulkan Abstraction focused on performance and a straightforward interface. [MIT]
-*  [Intrinsic Engine](http://www.intrinsic-engine.com/) - Intrinsic is a Vulkan based cross-platform graphics and game engine. [GPL]
+*  [Intrinsic Engine](http://www.intrinsic-engine.com/) - Intrinsic is a Vulkan based cross-platform graphics and game engine. [Apache License 2.0]
 *  [glo / OpenGL Overload](https://github.com/g-truc/glo) - OpenGL implementation on top of Vulkan.
 *  [Spectrum](https://github.com/mwalczyk/spectrum_core) - A work-in-progress framework and abstraction layer around Vulkan. 
 *  [SDL_vulkan](https://github.com/corngood/SDL_vulkan) - A library for creating Vulkan surfaces for SDL2 windows. [MIT]
@@ -163,8 +163,8 @@ drm/kms.
 *  [VulkanSharp](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. [MIT]
 *  [Vulkano](https://github.com/tomaka/vulkano) - Safe and rich Rust wrapper around the Vulkan API. [MIT]
 *  [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings. [BSD]
-*  [SharpVk](https://github.com/FacticiusVir/SharpVk) - C# bindings for Vulkan with Linq-to-SPIR-V & [NuGet package](https://www.nuget.org/packages/SharpVk) [MIT]
-*  [CVulkan](https://github.com/realitix/cvulkan) - Python bindings for Vulkan (C extension) generated with jinja2 template engine [MIT]
+*  [SharpVk](https://github.com/FacticiusVir/SharpVk) - C# bindings for Vulkan with Linq-to-SPIR-V & [NuGet package](https://www.nuget.org/packages/SharpVk). [MIT]
+*  [CVulkan](https://github.com/realitix/cvulkan) - Python bindings for Vulkan (C extension) generated with jinja2 template engine. [MIT]
   
 ## Tools
 *  [Nsight™ Visual Studio Edition 5.2+](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition).
@@ -180,6 +180,7 @@ drm/kms.
 *  [awesome-opengl](https://github.com/eug/awesome-opengl) - A curated list of awesome OpenGL libraries, debuggers and resources.
 *  [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development.
 *  [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
+*  [awesome-d3d12](https://github.com/vinjn/awesome-d3d12) - A curated list of awesome D3D12 libraries, debuggers and resources.
 
 ## License
 
