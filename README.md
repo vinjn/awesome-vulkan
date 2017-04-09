@@ -154,6 +154,7 @@ drm/kms.
 *  [SDL_vulkan](https://github.com/corngood/SDL_vulkan) - A library for creating Vulkan surfaces for SDL2 windows. [MIT]
 *  [VkHLF](https://github.com/nvpro-pipeline/VkHLF) - Vulkan High Level Framework. [[LICENSE](https://github.com/nvpro-pipeline/VkHLF/blob/master/LICENSE.txt)
 *  [VulkanOnD3D12](https://github.com/Chabloom/VulkanOnD3D12) - Vulkan API for D3D12. [Apache License 2.0]
+*  [visor](https://github.com/baldurk/visor) - Vulkan Ignoble Software Rasterizer. [MIT]
 
 ## Bindings
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/examples/vulkan/libvulkan.lua) - Lua bindings for Vulkan.
