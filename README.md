@@ -44,6 +44,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
     *  [Performance tweets series: Barriers, fences, synchronization](http://gpuopen.com/performance-tweets-series-barriers-fences-synchronization/)
     *  [Using the Vulkan™ Validation Layers](http://gpuopen.com/using-the-vulkan-validation-layers/)
     *  [Most common mistakes in Vulkan apps](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/Most-common-mistakes-in-Vulkan-apps.pdf)
+	*  [Vulkan Device Memory](http://gpuopen.com/vulkan-device-memory/)
 *  [NVIDIA](https://developer.nvidia.com/taxonomy/term/586)
     * [Vulkan Device-Generated Commands](https://developer.nvidia.com/device-generated-commands-vulkan)
     * [Getting Vulkan Ready For VR](https://developer.nvidia.com/getting-vulkan-ready-vr)
