@@ -182,6 +182,11 @@ drm/kms.
 *  [Open Capture and Analytics Tool (OCAT)](https://github.com/GPUOpen-Tools/OCAT) - rovides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. [MIT]
 
 ## Books
+* [Learning Vulkan](https://www.amazon.com/Learning-Vulkan-Parminder-Singh/dp/1786469804) - by **Parminder Singh** - Get started with the Vulkan API and its programming techniques using the easy-to-follow examples.
+  * [Book's Examples](https://github.com/PacktPublishing/Learning-Vulkan)
+* [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)- by **Pawel Lapinski** - Explores a wide range of graphics programming and GPU compute methods to make the best use of the Vulkan API.
+  * [Book's Examples](https://github.com/PacktPublishing/Vulkan-Cookbook)
+* [Vulkan Programming Guide](https://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - by **Graham Sellers** and **John Kessenich** - Introduces powerful 3D development techniques for many fields. 
 
 ## Related lists
 *  [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
