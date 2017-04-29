@@ -13,6 +13,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 * **[Libraries](#libraries)**
 * **[Bindings](#bindings)**
 * **[Tools](#tools)**
+* **[Books](#books)**
 
 ## Hardware Support
 *  [gpuinfo](http://vulkan.gpuinfo.org/) - Vulkan Hardware Database by Sascha Willems
@@ -179,6 +180,8 @@ drm/kms.
 *  [Qualcomm GPU Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools).
 *  [Mali Graphics Debugger](http://malideveloper.arm.com/resources/tools/mali-graphics-debugger/).
 *  [Open Capture and Analytics Tool (OCAT)](https://github.com/GPUOpen-Tools/OCAT) - rovides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. [MIT]
+
+## Books
 
 ## Related lists
 *  [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
