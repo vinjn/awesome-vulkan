@@ -126,7 +126,8 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [vkcube](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
 drm/kms.
 *  [Stardust from Intel](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. [[LICENSE](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
-*  [Introductory Vulkan sample from AMD](https://github.com/GPUOpen-LibrariesAndSDKs/HelloVulkan). [MIT]
+*  [Introductory Vulkan sample from AMD](https://github.com/GPUOpen-
+riesAndSDKs/HelloVulkan). [MIT]
 *  [Vulkan Quake port based on QuakeSpasm](https://github.com/Novum/vkQuake).
 *  [C# Samples](https://github.com/FacticiusVir/SharpVk-Samples) - Port of Overv's tutorials to [SharpVk](https://github.com/FacticiusVir/SharpVk) [MIT]
 *  [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer) - VFPR - a Vulkan Forward Plus Renderer. [MIT]
@@ -157,6 +158,7 @@ drm/kms.
 *  [VulkanOnD3D12](https://github.com/Chabloom/VulkanOnD3D12) - Vulkan API for D3D12. [Apache License 2.0]
 *  [visor](https://github.com/baldurk/visor) - Vulkan Ignoble Software Rasterizer. [MIT]
 *  [Lugdunum](https://github.com/Lugdunum3D/Lugdunum) - A modern cross-platform 3D rendering engine built with Vulkan and modern C++14. [MIT]
+*  [Vulkan-WSIWindow](https://github.com/renelindsay/Vulkan-WSIWindow) - A multi-platform library to create a Vulkan window, and handle input events. [Apache License 2.0]
 
 ## Bindings
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/examples/vulkan/libvulkan.lua) - Lua bindings for Vulkan.
