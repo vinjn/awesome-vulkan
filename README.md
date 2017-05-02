@@ -13,6 +13,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 * **[Libraries](#libraries)**
 * **[Bindings](#bindings)**
 * **[Tools](#tools)**
+* **[Books](#books)**
 
 ## Hardware Support
 *  [gpuinfo](http://vulkan.gpuinfo.org/) - Vulkan Hardware Database by Sascha Willems
@@ -85,7 +86,6 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
     *  [GDC 2016 Presentations](https://www.khronos.org/developers/library/2016-gdc)
     *  [Moving to Vulkan Khronos UK May16](https://www.khronos.org/assets/uploads/developers/library/2016-uk-chapter-moving-to-vulkan/Moving-to-Vulkan_Khronos-UK_May16.pdf)
     *  [SIGGRPAH 2016 3D BOF](https://www.khronos.org/assets/uploads/developers/library/2016-siggraph/Khronos-3D-BOF-SIGGRAPH_Jul16.pdf)
-*  [Vulkan Programming Guide](http://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - AKA the Red Book.
 *  [Lunarg's tutorial](https://vulkan.lunarg.com/doc/sdk/1.0.26.0/windows/tutorial.html)
 * Siggraph
     * [An overview of next-generation graphics APIs](http://nextgenapis.realtimerendering.com/) - covers Vulkan, D3D12 etc.
@@ -181,6 +181,13 @@ riesAndSDKs/HelloVulkan). [MIT]
 *  [Qualcomm GPU Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools).
 *  [Mali Graphics Debugger](http://malideveloper.arm.com/resources/tools/mali-graphics-debugger/).
 *  [Open Capture and Analytics Tool (OCAT)](https://github.com/GPUOpen-Tools/OCAT) - rovides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. [MIT]
+
+## Books
+* [Learning Vulkan](https://www.amazon.com/Learning-Vulkan-Parminder-Singh/dp/1786469804) - by **Parminder Singh** - Get started with the Vulkan API and its programming techniques using the easy-to-follow examples.
+  * [Book's Examples](https://github.com/PacktPublishing/Learning-Vulkan)
+* [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)- by **Pawel Lapinski** - Explores a wide range of graphics programming and GPU compute methods to make the best use of the Vulkan API.
+  * [Book's Examples](https://github.com/PacktPublishing/Vulkan-Cookbook)
+* [Vulkan Programming Guide](https://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - by **Graham Sellers** and **John Kessenich** - Introduces powerful 3D development techniques for many fields. 
 
 ## Related lists
 *  [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
