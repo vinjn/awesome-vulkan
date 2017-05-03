@@ -14,6 +14,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 * **[Bindings](#bindings)**
 * **[Tools](#tools)**
 * **[Books](#books)**
+* **[Community](#community)**
 
 ## Hardware Support
 *  [gpuinfo](http://vulkan.gpuinfo.org/) - Vulkan Hardware Database by Sascha Willems
@@ -188,6 +189,13 @@ riesAndSDKs/HelloVulkan). [MIT]
 * [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)- by **Pawel Lapinski** - Explores a wide range of graphics programming and GPU compute methods to make the best use of the Vulkan API.
   * [Book's Examples](https://github.com/PacktPublishing/Vulkan-Cookbook)
 * [Vulkan Programming Guide](https://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - by **Graham Sellers** and **John Kessenich** - Introduces powerful 3D development techniques for many fields. 
+
+## Community
+*  [Freenode IRC](http://webchat.freenode.net/?channels=Vulkan)
+*  [Google Plus](https://plus.google.com/communities/108983304183191634377)
+*  [Khronos Forum](https://forums.khronos.org/forumdisplay.php/114-Vulkan)
+*  [Reddit](https://www.reddit.com/r/vulkan/)
+*  [Stack Overflow](http://stackoverflow.com/questions/tagged/vulkan)
 
 ## Related lists
 *  [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
