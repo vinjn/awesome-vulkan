@@ -80,7 +80,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
     * [Efficient use of Vulkan on UE4 Mobile](https://community.arm.com/servlet/JiveServlet/download/96891546-24708/6-mmg-siggraph2016-vulkan-smedis.pdf)
 
 ## Tutorial
-*  [jhenriques's tutorial](http://av.dfki.de/~jhenriques/development.html)
+*  [jhenriques's tutorial](http://jhenriques.net/development.html)
 *  [Khronos](https://www.khronos.org/registry/vulkan/)
     *  [Vulkan 1.0 Quick Reference](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
     *  [Vulkan 1.0 Specification](https://www.khronos.org/registry/vulkan/specs/1.0-wsi_extensions/pdf/vkspec.pdf)
