@@ -141,6 +141,7 @@ drm/kms.
 
 ## Libraries
 *  [Cinder](https://github.com/cinder/Cinder) and [the story](https://libcinder.org/notes/vulkan) [behind](https://forum.libcinder.org/#Topic/23286000002614007). [BSD]
+*  [SDL](https://discourse.libsdl.org/t/sdl-2-0-6-prerelease/23024) - added cross-platform Vulkan graphics support in SDL_vulkan.h. [zlib]
 *  [DemoFramework](https://github.com/NXPmicro/gtec-demo-framework) - NXP GTEC C++11 cross-platform demo framework including lots of samples for Vulkan, OpenGL ES, OpenVX, OpenCL, OpenVG and OpenCV. [[BSD-3-clause](https://github.com/NXPmicro/gtec-demo-framework/blob/master/License.md)]
 *  [openFrameworks](https://github.com/openframeworks-vk/openFrameworks) - the most famouse C++ creative coding framework. [MIT]
 *  [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform rendering library, bgfx backend is WIP. [[LICENSE](https://github.com/bkaradzic/bgfx/blob/master/LICENSE)]
@@ -158,7 +159,6 @@ drm/kms.
 *  [Intrinsic Engine](http://www.intrinsic-engine.com/) - Intrinsic is a Vulkan based cross-platform graphics and game engine. [Apache License 2.0]
 *  [glo / OpenGL Overload](https://github.com/g-truc/glo) - OpenGL implementation on top of Vulkan.
 *  [Spectrum](https://github.com/mwalczyk/spectrum_core) - Work-in-progress framework and abstraction layer around Vulkan. 
-*  [SDL_vulkan](https://github.com/corngood/SDL_vulkan) - Library for creating Vulkan surfaces for SDL2 windows. [MIT]
 *  [VkHLF](https://github.com/nvpro-pipeline/VkHLF) - Vulkan High Level Framework. [[LICENSE]](https://github.com/nvpro-pipeline/VkHLF/blob/master/LICENSE.txt)
 *  [VulkanOnD3D12](https://github.com/Chabloom/VulkanOnD3D12) - Vulkan API for D3D12. [Apache License 2.0]
 *  [visor](https://github.com/baldurk/visor) - Vulkan Ignoble Software Rasterizer. [MIT]
