@@ -168,6 +168,7 @@ drm/kms.
 *  [Falcor](https://github.com/NVIDIAGameWorks/Falcor) - Real-time rendering framework from NVIDIA, supporting DX12 and Vulkan. [BSD 3-clause]
 *  [The-Forge](https://github.com/ConfettiFX/The-Forge) - DirectX 12, Vulkan, macOS Metal 2 rendering framework. [Apache License 2.0]
 *  [Marble-CORE](https://github.com/AwokenGraphics/marble-encore) - Vulkan API (only) interactive ray tracing engine 
+*  [VK9](https://github.com/disks86/VK9) - Direct3D 9 compatibility layer using Vulkan
 
 ## Bindings
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/examples/vulkan/libvulkan.lua) - Lua bindings for Vulkan.
