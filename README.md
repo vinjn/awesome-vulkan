@@ -24,6 +24,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
     *  [Driver for Android](https://developer.nvidia.com/vulkan-android)
     *  [Driver for Linux for Tegra (L4T)](https://developer.nvidia.com/embedded/vulkan)
 *  [AMD](http://www.amd.com/en-gb/innovations/software-technologies/technologies-gaming/vulkan)
+    * [Mesa](https://www.mesa3d.org)-provided [RADV open source driver](https://cgit.freedesktop.org/mesa/mesa/tree/src/amd/vulkan)
 *  [Imagination](https://imgtec.com/tools/powervr-early-access-program/)
 *  Intel
     *  [Open-source Driver](https://01.org/linuxgraphics/blogs/jekstrand/2016/open-source-vulkan-drivers-intel-hardware/)
@@ -105,9 +106,13 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [GFXBench 5](https://kishonti.net/news_single.jsp?id=31133884) - by Kishonti.
 *  [ProtoStar](https://www.unrealengine.com/blog/epic-games-unveils-protostar-at-samsung-galaxy-unpacked) - by Epic, built with Unreal Engine 4 technology.
 *  [Doom](https://en.wikipedia.org/wiki/Doom_(2016_video_game)) - by id Software.
+*  [Wolfenstein II: The New Colossus](https://en.wikipedia.org/wiki/Wolfenstein_II:_The_New_Colossus) - by id Software.
 *  [vkQuake](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm. [GPL]
 *  [Linux port of SteamVR](https://github.com/ValveSoftware/SteamVR-for-Linux) - SteamVR is built on top of the Vulkan API.
 *  [3DMark](https://www.futuremark.com/pressreleases/compare-vulkan-and-directx-12-performance-with-3dmark) - 3DMark API Overhead test.
+*  [Dolphin](https://dolphin-emu.org) GameCube & Wii Emulator (Vulkan is supported in git master builds) [GPL]
+*  [RPCS3](https://rpcs3.net) PlayStation 3 Emulator [GPL]
+*  [PPSSPP](https://www.ppsspp.org) PSP Emulator [GPL]
 
 ## Samples
 *  Sascha Willems's [samples](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of  Sponza](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos_meetup_munich](https://github.com/SaschaWillems/Vulkan/blob/master/documentation/Khronos_meetup_munich_fromGLtoVulkan.pdf).
@@ -128,7 +133,6 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [vkcube](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
 drm/kms.
 *  [Stardust from Intel](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. [[LICENSE](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
-*  [Vulkan Quake port based on QuakeSpasm](https://github.com/Novum/vkQuake).
 *  [C# Samples](https://github.com/FacticiusVir/SharpVk-Samples) - Port of Overv's tutorials to [SharpVk](https://github.com/FacticiusVir/SharpVk) [MIT]
 *  [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer) - VFPR - a Vulkan Forward Plus Renderer. [MIT]
 *  [Laugh Engine](https://github.com/jian-ru/laugh_engine) - Vulkan implementation of real-time PBR renderer.
