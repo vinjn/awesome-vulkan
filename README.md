@@ -24,7 +24,8 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
     *  [Driver for Android](https://developer.nvidia.com/vulkan-android)
     *  [Driver for Linux for Tegra (L4T)](https://developer.nvidia.com/embedded/vulkan)
 *  [AMD](http://www.amd.com/en-gb/innovations/software-technologies/technologies-gaming/vulkan)
-    * [Mesa](https://www.mesa3d.org)-provided [RADV open source driver](https://cgit.freedesktop.org/mesa/mesa/tree/src/amd/vulkan)
+    *  [Open-source Driver](https://github.com/GPUOpen-Drivers/AMDVLK)
+*  [Mesa](https://www.mesa3d.org)-provided [RADV open source driver](https://cgit.freedesktop.org/mesa/mesa/tree/src/amd/vulkan)
 *  [Imagination](https://imgtec.com/tools/powervr-early-access-program/)
 *  Intel
     *  [Open-source Driver](https://01.org/linuxgraphics/blogs/jekstrand/2016/open-source-vulkan-drivers-intel-hardware/)
