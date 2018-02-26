@@ -148,7 +148,7 @@ drm/kms.
 *  [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform rendering library, bgfx backend is WIP. [[LICENSE](https://github.com/bkaradzic/bgfx/blob/master/LICENSE)]
 *  [PowerVR SDK](https://github.com/powervr-graphics/Native_SDK) - C++ cross-platform 3D graphics SDK to speed up development of Vulkan and GLES. [[LICENSE](https://github.com/powervr-graphics/Native_SDK/blob/4.1/LICENSE_POWERVR_SDK.txt)]
 *  [glfw](https://github.com/glfw/glfw) and [the guide](http://www.glfw.org/docs/3.2/vulkan.html).  [[LICENSE](https://github.com/glfw/glfw/blob/master/COPYING.txt)]
-*  [MoltenVK](https://moltengl.com/moltenvk/) - run Vulkan on iOS and macOS. [Non-free]
+*  [MoltenVK](https://github.com/KhronosGroup/MoltenVK/) - run Vulkan on iOS and macOS. [Apache-2.0]
 *  [imgui](https://github.com/ocornut/imgui) - Immediate Mode Graphical User interface. [MIT]
 *  [libvc](https://github.com/alexhultman/libvc) - Vulkan Compute for C++.  [[LICENSE](https://github.com/alexhultman/libvc/blob/master/LICENSE)]
 *  [AMD's Anvil](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) - cross-platform framework for Vulkan. [[LICENSE](https://github.com/GPUOpen-LibrariesAndSDKs/OutOfOrderRasterization/blob/master/LICENSE.txt)]
