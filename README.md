@@ -170,7 +170,7 @@ drm/kms.
 *  [The-Forge](https://github.com/ConfettiFX/The-Forge) - DirectX 12, Vulkan, macOS Metal 2 rendering framework. [Apache License 2.0]
 *  [VK9](https://github.com/disks86/VK9) - Direct3D 9 compatibility layer using Vulkan
 *  [gfx-rs](https://github.com/gfx-rs/gfx) - High-performance, bindless graphics API for Rust. [Apache License 2.0]
-*  [Satellite](https://github.com/world8th/satellite) - fork of Marble (and continuation de facto), Vulkan API based ray tracing engine
+*  [satellite-oem](https://github.com/world8th/satellite-oem) - Vulkan API (1.0.68) based ray tracing engine for geeks, enthusiasts and developers, is not final production for end users
 
 ## Bindings
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/examples/vulkan/libvulkan.lua) - Lua bindings for Vulkan.
