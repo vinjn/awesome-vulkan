@@ -175,6 +175,7 @@ drm/kms.
 *  [gfx-rs](https://github.com/gfx-rs/gfx) - High-performance, bindless graphics API for Rust. [Apache License 2.0]
 *  [satellite-oem](https://github.com/world8th/satellite-oem) - Vulkan API (>=1.1) based ray tracing engine for geeks, enthusiasts and developers, is not final production for end users
 *  [rostkatze](https://github.com/msiglreith/rostkatze) - C++ implementation of Vulkan sitting on D3D12 🐈[Apache License 2.0]
+*  [Fossilize](https://github.com/Themaister/Fossilize) - serialization format for various persistent Vulkan object types. [MIT]
 
 ## Bindings
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/examples/vulkan/libvulkan.lua) - Lua bindings for Vulkan.
