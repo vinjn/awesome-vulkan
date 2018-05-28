@@ -217,6 +217,7 @@ drm/kms.
 *  [Khronos Forum](https://forums.khronos.org/forumdisplay.php/114-Vulkan)
 *  [Reddit](https://www.reddit.com/r/vulkan/)
 *  [Stack Overflow](http://stackoverflow.com/questions/tagged/vulkan)
+*  [Discord](https://discord.gg/JyJDbyH)
 
 ## Related lists
 *  [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
