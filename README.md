@@ -179,6 +179,7 @@ drm/kms.
 *  [rostkatze](https://github.com/msiglreith/rostkatze) - C++ implementation of Vulkan sitting on D3D12 🐈[Apache License 2.0]
 *  [Fossilize](https://github.com/Themaister/Fossilize) - serialization format for various persistent Vulkan object types. [MIT]
 *  [VulkanSceneGraph](https://github.com/openscenegraph/VulkanSceneGraph) - next-gen OpenSceneGraph.
+*  [clspv](https://github.com/google/clspv) - prototype compiler for a subset of OpenCL C to Vulkan compute shaders. [Apache License 2.0]
 
 ## Bindings
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/examples/vulkan/libvulkan.lua) - Lua bindings for Vulkan.
