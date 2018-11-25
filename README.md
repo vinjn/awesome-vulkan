@@ -95,7 +95,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [Tutorial by Overv](https://vulkan-tutorial.com/) and [its github repository](https://github.com/Overv/VulkanTutorial). [CC BY-SA 4.0]
 *  [vulkan-sxs](https://github.com/philiptaylor/vulkan-sxs) - explain the Vulkan API step by step and [vulkan-sync](https://github.com/philiptaylor/vulkan-sync) - rephrase Vulkan's requirements on execution dependencies in a more precise form. [MIT]
 *  [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html) - by baldurk.
-*  [Vulkan Demos and Tutorials](https://github.com/Z80Fan/VulkanDemos) [MIT].
+*  [Vulkan Demos and Tutorials](https://github.com/Z80Fan/VulkanDemos). [MIT]
 
 ## Apps
 *  [The Talos Principle](http://www.croteam.com/talos-principle-will-support-vulkan-first-screenshot-released/) - by Croteam.
@@ -136,6 +136,7 @@ drm/kms.
 *  [vulkantoy](https://github.com/jpystynen/vulkantoy) - Shadertoy image shader test app with Vulkan. [MIT]
 *  [GL_vs_VK](https://github.com/RippeR37/GL_vs_VK) - Comparison of OpenGL and Vulkan API in terms of performance. [MIT]
 *  [Vulkan Basic Graphics Samples](https://github.com/vcoda/basic-graphics-samples) - Collection of simple graphics samples that are written using Magma library.
+*  [Simple RTX Vulkan raytracing tutorials](https://github.com/iOrange/rtxON). [MIT]
 
 ## Libraries
 *  [Acid](https://github.com/Equilibrium-Games/Acid) - A high speed C++17 Vulkan game engine. [MIT]
