@@ -170,6 +170,7 @@ drm/kms.
 *  [Vulkan-WSIWindow](https://github.com/renelindsay/Vulkan-WSIWindow) - Multi-platform library to create a Vulkan window, and handle input events. [Apache License 2.0]
 *  [Falcor](https://github.com/NVIDIAGameWorks/Falcor) - Real-time rendering framework from NVIDIA, supporting DX12 and Vulkan. [BSD 3-clause]
 *  [The-Forge](https://github.com/ConfettiFX/The-Forge) - DirectX 12, Vulkan, macOS Metal 2 rendering framework. [Apache License 2.0]
+*  [FrameGraph](https://github.com/azhirnov/FrameGraph) - Vulkan abstraction layer that represent frame as a task graph. [BSD 2-clause]
 *  [VK9](https://github.com/disks86/VK9) - Direct3D 9 compatibility layer using Vulkan
 *  [gfx-rs](https://github.com/gfx-rs/gfx) - High-performance, bindless graphics API for Rust. [Apache License 2.0]
 *  [vRt](https://github.com/world8th/vRt) - Vulkan API (>=1.1) based unified ray tracing library. [LGPL-3.0]
