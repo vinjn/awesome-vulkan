@@ -141,6 +141,7 @@ drm/kms.
 *  [Vulkan Basic Graphics Samples](https://github.com/vcoda/basic-graphics-samples) - Collection of simple graphics samples that are written using Magma library.
 *  [Simple RTX Vulkan raytracing tutorials](https://github.com/iOrange/rtxON). [MIT]
 *  [RadX](https://github.com/world8th/RadX) - Dedicated example of radix sorting on GPU (on NVIDIA RTX in particular).
+*  [Ray Tracing In One Weekend (Vulkan RTX)](https://github.com/GPSnoopy/RayTracingInVulkan) - Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 
 ## Libraries
 *  [Acid](https://github.com/Equilibrium-Games/Acid) - A high speed C++17 Vulkan game engine. [MIT]
