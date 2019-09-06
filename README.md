@@ -144,6 +144,7 @@ drm/kms.
 *  [RadX](https://github.com/world8th/RadX) - Dedicated example of radix sorting on GPU (on NVIDIA RTX in particular).
 *  [Ray Tracing In One Weekend (Vulkan RTX)](https://github.com/GPSnoopy/RayTracingInVulkan) - Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 *  [Gears VK](https://github.com/jeffboody/gearsvk) - Gears VK is a heavily modified port of the famous "gears" demo to Vulkan/Android/Linux. [MIT]
+*  [VulkanDemos](https://github.com/BobLChen/VulkanDemos) [MIT]
 
 ## Libraries
 *  [Acid](https://github.com/Equilibrium-Games/Acid) - A high speed C++17 Vulkan game engine. [MIT]
