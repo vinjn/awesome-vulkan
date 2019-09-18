@@ -159,6 +159,7 @@ drm/kms.
 *  [MoltenVK](https://github.com/KhronosGroup/MoltenVK/) - run Vulkan on iOS and macOS. [Apache-2.0]
 *  [imgui](https://github.com/ocornut/imgui) - Immediate Mode Graphical User interface. [MIT]
 *  [vuh](https://github.com/Glavnokoman/vuh) - Vulkan-based C++ GPGPU computing framework. [MIT]
+*  [liblava](https://github.com/liblava/liblava) - A modern C++ and easy-to-use framework. [MIT]
 *  [libvc](https://github.com/alexhultman/libvc) - Vulkan Compute for C++.  [[LICENSE](https://github.com/alexhultman/libvc/blob/master/LICENSE)]
 *  [AMD's Anvil](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) - cross-platform framework for Vulkan. [[LICENSE](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil/blob/master/LICENSE.txt)]
     * [Introductory Vulkan sample](https://github.com/GPUOpen-LibrariesAndSDKs/HelloVulkan). [MIT]
