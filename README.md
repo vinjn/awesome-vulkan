@@ -213,7 +213,6 @@ drm/kms.
 *  [vulkan](https://github.com/realitix/vulkan) - Ultimate Python bindings for Vulkan generated with CFFI. [Apache Licence 2.0]
 *  [vulkan-go](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. [MIT]
 
-
 ## Tools
 *  [Nsight™ Visual Studio Edition 5.2+](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition).
 *  [LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. [Apache Licence 2.0]
