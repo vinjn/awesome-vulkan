@@ -201,6 +201,7 @@ drm/kms.
 *  [Quartz](https://github.com/Nadrin/Quartz) - Physically based Vulkan RTX path tracer with a declarative ES7-like scene description language. [LGPL-3.0]	
 *  [VK²](https://github.com/kotlin-graphics/vkk), Kotlin Wrapper for Vulkan: code expressiveness and safety meet graphic power [Apache License 2.0]
 *  [small3d](https://www.gamedev.net/projects/515-small3d/), Tiny Vulkan based C++ cross-platform game development framework [BSD 3-clause]
+*  [vkt/vkh](https://github.com/world8th/vkt), helper for Vulkan API (1.1), based and uses C++20. [MIT]
 
 ## Bindings
 *  [ash](https://github.com/MaikKlein/ash) - Vulkan bindings for Rust. [MIT]
