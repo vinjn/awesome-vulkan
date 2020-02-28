@@ -118,7 +118,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 
 ## Samples
 *  Khronos [Vulkan samples](https://github.com/KhronosGroup/Vulkan-Samples) [[LICENSE](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
-*  Sascha Willems's [samples](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos_meetup_munich](https://www.saschawillems.de/vulkan/khronosmeetup/#/).
+*  Sascha Willems's [samples](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos_meetup_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
 *  (Incomplete) Sascha Willems's [samples port](https://github.com/jvm-graphics-labs/Vulkan) to Kotlin
 *  Sascha Willems's [Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. [MIT]
 *  [Vulkan Best Practice for Mobile Developers Samples](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
