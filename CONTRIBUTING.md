@@ -9,6 +9,6 @@ Please ensure your pull request adheres to the following guidelines:
 * Make sure your text editor is set to remove trailing whitespace.
 * Order projects alphabetically within each category.
 * Check your spelling and grammar.
-* New categories, or improvements to the existing categorisation are welcome.
+* New categories, or improvements to the existing categorization are welcome.
 
 Thank you for your suggestions!
