@@ -167,6 +167,7 @@ drm/kms.
 *  [MoltenVK](https://github.com/KhronosGroup/MoltenVK/) - run Vulkan on iOS and macOS. [Apache-2.0]
 *  [imgui](https://github.com/ocornut/imgui) - Immediate Mode Graphical User interface. [MIT]
 *  [vuh](https://github.com/Glavnokoman/vuh) - Vulkan-based C++ GPGPU computing framework. [MIT]
+*  [vk-bootstrap](https://github.com/charles-lunarg/vk-bootstrap) - C++ utility library to jump start Vulkan development by automating instance, physical device, device, and swapchain creation. [MIT]
 *  [liblava](https://github.com/liblava/liblava) - A modern C++ and easy-to-use framework. [MIT]
 *  [libvc](https://github.com/alexhultman/libvc) - Vulkan Compute for C++.  [[LICENSE](https://github.com/alexhultman/libvc/blob/master/LICENSE)]
 *  [AMD's Anvil](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) - cross-platform framework for Vulkan. [[LICENSE](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil/blob/master/LICENSE.txt)]
@@ -279,7 +280,7 @@ drm/kms.
 *  [Khronos Forum](https://forums.khronos.org/forumdisplay.php/114-Vulkan)
 *  [Reddit](https://www.reddit.com/r/vulkan/)
 *  [Stack Overflow](http://stackoverflow.com/questions/tagged/vulkan)
-*  [Discord](https://discord.gg/JyJDbyH)
+*  [Discord](https://discord.com/invite/tFdvbEj)
 
 ## Related lists
 *  [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
