@@ -86,6 +86,17 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
     * [Efficient use of Vulkan on UE4 Mobile](https://community.arm.com/cfs-file/__key/telligent-evolution-extensions-calendar-calendarfiles/00-00-00-00-05/6_2D00_mmg_2D00_siggraph2016_2D00_vulkan_2D00_smedis.pdf)
 *  Khronos
    * [Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide)    
+* [LunarG](https://lunarg.com)
+    * [Vulkan SDK](https://vulkan.lunarg.com/)
+    * [Vulkan SDK Version Compatibility](https://www.lunarg.com/wp-content/uploads/2020/03/Vulkan-SDK-Version-Compatibility_4_20.pdf)
+    * [Introducing the New Vulkan Configurator](https://www.lunarg.com/wp-content/uploads/2020/08/Intro-to-Vulkan-Configurator_08_2020.pdf)
+    * [Unified Validation Layer for Vulkan](https://www.lunarg.com/wp-content/uploads/2020/05/UberLayer_V3.pdf)
+    * [Vulkan Synchronization Validation Quick Start Guide](https://www.lunarg.com/wp-content/uploads/2020/08/Final_Vulkan-Synchronization-Validation-Quick-Start_08_20.pdf)
+    * [Guide to Vulkan Synchronization Validation](https://www.lunarg.com/wp-content/uploads/2020/09/Final_LunarG_Guide_to_Vulkan-Synchronization_Validation_08_20.pdf)
+    * [Vulkan GPU-Assisted Validation](https://www.lunarg.com/wp-content/uploads/2020/05/GPU-Assisted-Validation-Phase-3_09_19.pdf)
+    * [Automatic RelaxedPrecision Decoration and Conversion in Spirv-Opt](https://www.lunarg.com/wp-content/uploads/2020/05/Automatic-RelaxedPrecision-Decoration-and-Conversion-in-Spirv-Opt_r1.pdf)
+    * [SPIR-V Legalization and Size Reduction with spirv-opt](https://www.lunarg.com/wp-content/uploads/2020/05/SPIR-V-Shader-Legalization-and-Size-Reduction-Using-spirv-opt_v1.2.pdf)
+    * [All White Papers](https://www.lunarg.com/vulkan-white-papers/)
 
 ## Tutorial
 *  [How to Learn Vulkan](https://www.jeremyong.com/c++/vulkan/graphics/rendering/2018/03/26/how-to-learn-vulkan.html) - Meta post on how to learn Vulkan
