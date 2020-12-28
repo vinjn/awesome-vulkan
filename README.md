@@ -216,7 +216,7 @@ drm/kms.
 *  [Quartz](https://github.com/Nadrin/Quartz) - Physically based Vulkan RTX path tracer with a declarative ES7-like scene description language. [LGPL-3.0]	
 *  [VK²](https://github.com/kotlin-graphics/vkk), Kotlin Wrapper for Vulkan: code expressiveness and safety meet graphic power [Apache License 2.0]
 *  [small3d](https://www.gamedev.net/projects/515-small3d/), Tiny Vulkan based C++ cross-platform game development framework [BSD 3-clause]
-*  [vkt/vkh](https://github.com/world8th/vkt), helper for Vulkan API (1.1), based and uses C++20. [MIT]
+*  [VKt/VKh](https://github.com/helixd2s/vkt), tools and helpers for Vulkan API, based and uses C++20. [MIT]
 *  [Vulkan Kompute](https://github.com/axsaucedo/vulkan-kompute) - Blazing fast and lightweight Vulkan Compute Framework optimized for advanced GPU processing usecases. [Apache License 2.0]
 *  [VKVG](https://github.com/jpbruyere/vkvg) - Vulkan 2D graphics library, API follows the same pattern as Cairo graphics lib, but with new functions.
 *  [Logi](https://github.com/UL-FRI-LGM/Logi) - Light-weight object oriented Vulkan abstraction framework. [BSD 2-clause]
