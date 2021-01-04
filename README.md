@@ -85,7 +85,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 * Epic
     * [Efficient use of Vulkan on UE4 Mobile](https://community.arm.com/cfs-file/__key/telligent-evolution-extensions-calendar-calendarfiles/00-00-00-00-05/6_2D00_mmg_2D00_siggraph2016_2D00_vulkan_2D00_smedis.pdf)
 *  Khronos
-   * [Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide)    
+   * [Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide)
 * [LunarG](https://lunarg.com)
     * [Vulkan SDK](https://vulkan.lunarg.com/)
     * [Vulkan SDK Version Compatibility](https://www.lunarg.com/wp-content/uploads/2020/03/Vulkan-SDK-Version-Compatibility_4_20.pdf)
@@ -213,7 +213,7 @@ drm/kms.
 *  [Zink](https://gitlab.freedesktop.org/kusma/mesa/tree/zink) - OpenGL implementation on top of Vulkan, part of Mesa project. [MIT]
 *  [ncnn](https://github.com/Tencent/ncnn) - High-performance neural network inference framework with Vulkan based GPU inference. [BSD 3-clause]
 *  [iMSTK](https://gitlab.kitware.com/iMSTK/iMSTK) - C++ toolkit for building surgical simulations with Vulkan and VTK backends. [Apache License 2.0]
-*  [Quartz](https://github.com/Nadrin/Quartz) - Physically based Vulkan RTX path tracer with a declarative ES7-like scene description language. [LGPL-3.0]	
+*  [Quartz](https://github.com/Nadrin/Quartz) - Physically based Vulkan RTX path tracer with a declarative ES7-like scene description language. [LGPL-3.0]
 *  [VK²](https://github.com/kotlin-graphics/vkk), Kotlin Wrapper for Vulkan: code expressiveness and safety meet graphic power [Apache License 2.0]
 *  [small3d](https://www.gamedev.net/projects/515-small3d/), Tiny Vulkan based C++ cross-platform game development framework [BSD 3-clause]
 *  [VKt/VKh](https://github.com/helixd2s/vkt), tools and helpers for Vulkan API, based and uses C++20. [MIT]
@@ -238,6 +238,7 @@ drm/kms.
 *  [vulkan](https://github.com/realitix/vulkan) - Ultimate Python bindings for Vulkan generated with CFFI. [Apache Licence 2.0]
 *  [vulkan-go](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. [MIT]
 *  [PasVulkan](https://github.com/BeRo1985/pasvulkan) - Vulkan bindings plus high-level wrapper library for Object Pascal [Zlib]
+*  [vulkan-zig](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig [MIT]
 
 ## Tools
 *  [Nsight™ Visual Studio Edition 5.2+](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition).
