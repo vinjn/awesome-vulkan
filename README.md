@@ -220,6 +220,7 @@ drm/kms.
 *  [Vulkan Kompute](https://github.com/axsaucedo/vulkan-kompute) - Blazing fast and lightweight Vulkan Compute Framework optimized for advanced GPU processing usecases. [Apache License 2.0]
 *  [VKVG](https://github.com/jpbruyere/vkvg) - Vulkan 2D graphics library, API follows the same pattern as Cairo graphics lib, but with new functions.
 *  [Logi](https://github.com/UL-FRI-LGM/Logi) - Light-weight object oriented Vulkan abstraction framework. [BSD 2-clause]
+*  [datoviz](https://github.com/datoviz/datoviz) - High-performance GPU interactive scientific data visualization with Vulkan. [MIT]
 
 ## Bindings
 *  [ash](https://github.com/MaikKlein/ash) - Vulkan bindings for Rust. [MIT]
