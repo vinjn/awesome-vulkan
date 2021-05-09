@@ -227,6 +227,7 @@ drm/kms.
    *  [MoltenVK](https://github.com/KhronosGroup/MoltenVK/) - run Vulkan on iOS and macOS. [Apache-2.0]
    *  [Zink](https://gitlab.freedesktop.org/kusma/mesa/tree/zink) - OpenGL implementation on top of Vulkan, part of Mesa project. [MIT]
    *  [glo / OpenGL Overload](https://github.com/g-truc/glo) - OpenGL implementation on top of Vulkan.
+   *  [gfx-portability](https://github.com/gfx-rs/portability) - Vulkan Portability implementation on Metal and D3D12, based on [gfx-rs](https://github.com/gfx-rs/gfx/).
 
 * Raytracing
    *  [vRt](https://github.com/world8th/vRt) - Vulkan API (>=1.1) based unified ray tracing library. [LGPL-3.0]
@@ -242,7 +243,7 @@ drm/kms.
 
 ## Bindings
 *  [ash](https://github.com/MaikKlein/ash) - Vulkan bindings for Rust. [MIT]
-*  [gfx-rs](https://github.com/gfx-rs/gfx) - High-performance, bindless graphics API for Rust. [Apache License 2.0]
+*  [gfx-rs](https://github.com/gfx-rs/gfx) - A low-overhead Vulkan-like GPU API for Rust. [Apache License 2.0]
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/vulkan/vulkan.lua) - Lua bindings for Vulkan.
 *  [dvulkan](https://github.com/ColonelThirtyTwo/dvulkan) - Auto-generated D bindings for Vulkan.
 *  [ErupteD](https://github.com/ParticlePeter/ErupteD) - Another Auto-generated D bindings for Vulkan.
