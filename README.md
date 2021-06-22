@@ -262,6 +262,7 @@ drm/kms.
 *  [PasVulkan](https://github.com/BeRo1985/pasvulkan) - Vulkan bindings plus high-level wrapper library for Object Pascal [Zlib]
 *  [vulkan-zig](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig [MIT]
 *  [VK²](https://github.com/kotlin-graphics/vkk), Kotlin Wrapper for Vulkan: code expressiveness and safety meet graphic power [Apache License 2.0]
+*  [Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) is a .NET Standard 2.0 and .NET5 low-level bindings for Vulkan API. [MIT]
 
 
 ## Tools
