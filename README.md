@@ -161,11 +161,9 @@ drm/kms.
 *  [GL_vs_VK](https://github.com/RippeR37/GL_vs_VK) - Comparison of OpenGL and Vulkan API in terms of performance. [MIT]
 *  [Vulkan Basic Graphics Samples](https://github.com/vcoda/basic-graphics-samples) - Collection of simple graphics samples that are written using Magma library.
 *  [Simple RTX Vulkan raytracing tutorials](https://github.com/iOrange/rtxON). [MIT]
-*  [RadX](https://github.com/world8th/RadX) - Dedicated example of radix sorting on GPU (on NVIDIA RTX in particular).
 *  [Ray Tracing In One Weekend (Vulkan RTX)](https://github.com/GPSnoopy/RayTracingInVulkan) - Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 *  [Gears VK](https://github.com/jeffboody/gearsvk) - Gears VK is a heavily modified port of the famous "gears" demo to Vulkan/Android/Linux. [MIT]
-*  [Hello Triangle](https://github.com/helixd-2k18/VK_KHR_ray_tracing), based on `VK_KHR_ray_tracing` extension. [MIT]
-
+*  [Hello triangle](https://github.com/maierfelix/VK_KHR_ray_tracing), based on Vulkan Ray Tracing extensions. [MIT]
 
 ## Libraries
 * 2D
@@ -191,7 +189,6 @@ drm/kms.
    *  [Vookoo](https://github.com/andy-thomason/Vookoo) - Vookoo is a set of dependency-free utilities to assist in the construction and updating of Vulkan graphics data structres. [MIT]
    *  [vpp](https://github.com/nyorain/vpp) - Modern C++ Vulkan Abstraction focused on performance and a straightforward interface. [MIT]
    *  [VulkanSceneGraph](https://github.com/vsg-dev) - Vulkan/C++17 scene graph project, successor to [OpenSceneGraph](http://www.openscenegraph.org).
-   *  [VKt/VKh](https://github.com/helixd2s/vkt), tools and helpers for Vulkan API, based and uses C++20. [MIT]
    *  [Vulkan-WSIWindow](https://github.com/renelindsay/Vulkan-WSIWindow) - Multi-platform library to create a Vulkan window, and handle input events. [Apache License 2.0]
 
 * Frameworks, Engines, Higher Level Rendering
@@ -231,7 +228,6 @@ drm/kms.
    *  [gfx-portability](https://github.com/gfx-rs/portability) - Vulkan Portability implementation on Metal and D3D12, based on [gfx-rs](https://github.com/gfx-rs/gfx/).
 
 * Raytracing
-   *  [vRt](https://github.com/world8th/vRt) - Vulkan API (>=1.1) based unified ray tracing library. [LGPL-3.0]
    *  [Quartz](https://github.com/Nadrin/Quartz) - Physically based Vulkan RTX path tracer with a declarative ES7-like scene description language. [LGPL-3.0]
 
 * Scientific
