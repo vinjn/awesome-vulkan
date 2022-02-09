@@ -163,7 +163,7 @@ drm/kms.
 *  [Simple RTX Vulkan raytracing tutorials](https://github.com/iOrange/rtxON). [MIT]
 *  [Ray Tracing In One Weekend (Vulkan RTX)](https://github.com/GPSnoopy/RayTracingInVulkan) - Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 *  [Gears VK](https://github.com/jeffboody/gearsvk) - Gears VK is a heavily modified port of the famous "gears" demo to Vulkan/Android/Linux. [MIT]
-*  [Hello triangle](https://github.com/maierfelix/VK_KHR_ray_tracing), based on Vulkan Ray Tracing extensions. [MIT]
+*  [Hello triangle,](https://github.com/maierfelix/VK_KHR_ray_tracing) based on Vulkan Ray Tracing extensions. [MIT]
 
 ## Libraries
 * 2D
@@ -260,7 +260,6 @@ drm/kms.
 *  [vulkan-zig](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig [MIT]
 *  [VK²](https://github.com/kotlin-graphics/vkk), Kotlin Wrapper for Vulkan: code expressiveness and safety meet graphic power [Apache License 2.0]
 *  [Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) - .NET Standard 2.0 and .NET5 C# bindings [MIT]
-
 
 ## Tools
 *  [Nsight™ Visual Studio Edition 5.2+](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition).
