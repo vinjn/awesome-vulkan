@@ -291,7 +291,8 @@ drm/kms.
 
 ## Papers
 *  [The Road to Vulkan: Teaching Modern Low-Level APIs in Introductory Graphics Courses](https://www.cg.tuwien.ac.at/research/publications/2022/unterguggenberger-2022-vulkan) by **Johannes Unterguggenberger**, **Bernhard Kerbl**, and **Michael Wimmer**, Eurographics 2022 - Education Papers
-    * Pre-recorded presentation on [YouTube](https://youtu.be/ZG0ct4V6c0k).
+    *  Direct link to the [paper](https://www.cg.tuwien.ac.at/research/publications/2022/unterguggenberger-2022-vulkan/unterguggenberger-2022-vulkan-paper.pdf).
+    *  Pre-recorded presentation on [YouTube](https://youtu.be/ZG0ct4V6c0k).
 
 ## Khronos
 *  Specification
