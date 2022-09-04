@@ -116,6 +116,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html) - by baldurk.
 *  [Vulkan Demos and Tutorials](https://github.com/Z80Fan/VulkanDemos). [MIT]
 *  [Vulkan Guide](https://vkguide.dev). [MIT]
+*  [Vulkan Lecture Series](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE1Jx5HV4sd2jOe3V1KMHHgn) - University lectures by Johannes Unterguggenberger from the Research Unit of Computer Graphics, TU Wien. Covers basic and advanced topics like: Vulkan essentials, the swap chain, resources and descriptors, commands and command buffers, pipelines and stages, real-time ray tracing, and synchronization.
 
 ## Apps
 *  [The Talos Principle](http://www.croteam.com/talos-principle-will-support-vulkan-first-screenshot-released/) - by Croteam.
