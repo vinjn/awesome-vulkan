@@ -14,6 +14,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 * **[Bindings](#bindings)**
 * **[Tools](#tools)**
 * **[Books](#books)**
+* **[Papers](#papers)**
 * **[Khronos](#khronos)**
 * **[Community](#community)**
 
@@ -115,6 +116,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 *  [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html) - by baldurk.
 *  [Vulkan Demos and Tutorials](https://github.com/Z80Fan/VulkanDemos). [MIT]
 *  [Vulkan Guide](https://vkguide.dev). [MIT]
+*  [Vulkan Lecture Series](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE1Jx5HV4sd2jOe3V1KMHHgn) - University lectures by Johannes Unterguggenberger from the Research Unit of Computer Graphics, TU Wien. Covers basic and advanced topics like: Vulkan essentials, the swap chain, resources and descriptors, commands and command buffers, pipelines and stages, real-time ray tracing, and synchronization.
 
 ## Apps
 *  [The Talos Principle](http://www.croteam.com/talos-principle-will-support-vulkan-first-screenshot-released/) - by Croteam.
@@ -195,8 +197,8 @@ drm/kms.
 
 * Frameworks, Engines, Higher Level Rendering
    *  [Auto-Vk](https://github.com/cg-tuwien/Auto-Vk) - Vulkan convenience and productivity layer for modern C++, atop Vulkan-Hpp, by the Research Unit of Computer Graphics, TU Wien. [MIT]
+   *  [Falcor](https://github.com/NVIDIAGameWorks/Falcor) - Real-time rendering framework from NVIDIA, supporting mainly DX12, with experimental Vulkan support. [BSD 3-clause]
    *  [Auto-Vk-Toolkit](https://github.com/cg-tuwien/Auto-Vk-Toolkit) - C++ framework around [Auto-Vk](https://github.com/cg-tuwien/Auto-Vk) for rapid prototyping, research, and teaching, by the Research Unit of Computer Graphics, TU Wien. [MIT for the framework's code]
-   *  [Falcor](https://github.com/NVIDIAGameWorks/Falcor) - Real-time rendering framework from NVIDIA, supporting DX12 and Vulkan. [BSD 3-clause]
    *  [The-Forge](https://github.com/ConfettiFX/The-Forge) - DirectX 12, Vulkan, macOS Metal 2 rendering framework. [Apache License 2.0]
    *  [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - a modern cross-platform low-level graphics library that supports OpenGL/GLES, Direct3D11/12 and Vulkan. [Apache License 2.0]
    *  [DemoFramework](https://github.com/NXPmicro/gtec-demo-framework) - NXP GTEC C++11 cross-platform demo framework including lots of samples for Vulkan, OpenGL ES, OpenVX, OpenCL, OpenVG and OpenCV. [[BSD-3-clause](https://github.com/NXPmicro/gtec-demo-framework/blob/master/License.md)]
@@ -290,17 +292,25 @@ drm/kms.
   * [Book's Examples](https://github.com/PacktPublishing/Vulkan-Cookbook)
 * [Vulkan Programming Guide](https://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - by **Graham Sellers** and **John Kessenich** - Introduces powerful 3D development techniques for many fields.
 
+## Papers
+*  [The Road to Vulkan: Teaching Modern Low-Level APIs in Introductory Graphics Courses](https://www.cg.tuwien.ac.at/research/publications/2022/unterguggenberger-2022-vulkan) by **Johannes Unterguggenberger**, **Bernhard Kerbl**, and **Michael Wimmer**, Eurographics 2022 - Education Papers
+    *  Direct link to the [paper](https://www.cg.tuwien.ac.at/research/publications/2022/unterguggenberger-2022-vulkan/unterguggenberger-2022-vulkan-paper.pdf).
+    *  Pre-recorded presentation on [YouTube](https://youtu.be/ZG0ct4V6c0k).
+
 ## Khronos
 *  Specification
-    *  [Vulkan 1.0 Specification](https://www.khronos.org/registry/vulkan/specs/1.0/pdf/vkspec.pdf)
-    *  [Vulkan 1.0 Specification with Extensions ](https://www.khronos.org/registry/vulkan/specs/1.0-extensions/pdf/vkspec.pdf)
-    *  [Vulkan 1.0 Specification with WSI Extensions](https://www.khronos.org/registry/vulkan/specs/1.0-wsi_extensions/pdf/vkspec.pdf)
-    *  [Vulkan 1.1 Specification](https://www.khronos.org/registry/vulkan/specs/1.1/pdf/)
-    *  [Vulkan 1.1 Specification with Extensions ](https://www.khronos.org/registry/vulkan/specs/1.1-extensions/pdf/vkspec.pdf)
-    *  [Vulkan 1.1 Specification with KHR Extensions](https://www.khronos.org/registry/vulkan/specs/1.1-khr-extensions/pdf/)
-    *  [Vulkan 1.2 Specification](https://www.khronos.org/registry/vulkan/specs/1.2/pdf/vkspec.pdf)
-    *  [Vulkan 1.2 Specification with Extensions ](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/pdf/vkspec.pdf)
-    *  [Vulkan 1.2 Specification with KHR Extensions](https://www.khronos.org/registry/vulkan/specs/1.2-khr-extensions/pdf/vkspec.pdf)
+    *  Vulkan 1.0 Core API ([Chunked HTML](https://registry.khronos.org/vulkan/specs/1.0/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.0/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.0/html/vkspec.html))
+    *  Vulkan 1.0 Core API + Khronos-defined Extensions ([Chunked HTML](https://registry.khronos.org/vulkan/specs/1.0-wsi_extensions/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.0-wsi_extensions/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.0-wsi_extensions/html/vkspec.html))
+    *  Vulkan 1.0 Core API + all registered Extensions ([Chunked HTML](https://registry.khronos.org/vulkan/specs/1.0-extensions/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.0-extensions/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.0-extensions/html/vkspec.html)) 
+    *  Vulkan 1.1 Core API ([Chunked HTML](https://registry.khronos.org/vulkan/specs/1.1/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.1/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.1/html/vkspec.html))
+    *  Vulkan 1.1 Core API + Khronos-defined Extensions ([Chunked HTML](https://registry.khronos.org/vulkan/specs/1.1-khr-extensions/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.1-khr-extensions/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.1-khr-extensions/html/vkspec.html))
+    *  Vulkan 1.1 Core API + all registered Extensions ([Chunked HTML](https://registry.khronos.org/vulkan/specs/1.1-extensions/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.1-extensions/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.1-extensions/html/vkspec.html)) 
+    *  Vulkan 1.2 Core API ([Chunked HTML](https://registry.khronos.org/vulkan/specs/1.2/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.2/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.2/html/vkspec.html))
+    *  Vulkan 1.2 Core API + Khronos-defined Extensions ([Chunked HTML](https://registry.khronos.org/vulkan/specs/1.2-khr-extensions/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.2-khr-extensions/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.2-khr-extensions/html/vkspec.html))
+    *  Vulkan 1.2 Core API + all registered Extensions ([Chunked HTML](https://registry.khronos.org/vulkan/specs/1.2-extensions/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.2-extensions/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.2-extensions/html/vkspec.html)) 
+    *  Vulkan 1.3 Core API ([Chunked HTML](https://registry.khronos.org/vulkan/specs/1.3/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.3/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.3/html/vkspec.html))
+    *  Vulkan 1.3 Core API + Khronos-defined Extensions ([Chunked HTML](https://registry.khronos.org/vulkan/specs/1.3-khr-extensions/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.3-khr-extensions/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.3-khr-extensions/html/vkspec.html))
+    *  Vulkan 1.3 Core API + all registered Extensions ([Chunked HTML](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.3-extensions/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/vkspec.html)) 
 *  Quick Reference Sheets
     *  [Vulkan 1.0 Quick Reference Sheets](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
     *  [Vulkan 1.1 Quick Reference Sheets](https://www.khronos.org/registry/vulkan/specs/1.1/refguide/Vulkan-1.1-web.pdf)
