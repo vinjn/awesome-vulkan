@@ -273,7 +273,7 @@ drm/kms.
 *  [LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) - from KhronosGroup. [Apache Licence 2.0]
 *  [renderdoc](https://github.com/baldurk/renderdoc) - by baldurk, a stand-alone graphics debugging tool. [MIT]
     * [RDCtoVkCpp](https://github.com/azhirnov/RDCtoVkCpp) - converts RenderDoc Vulkan capture to compilable and executable C++ code. [MIT]
-*  [VulkanTools](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers, `vktrace` and `vkreplay`. [Apache Licence 2.0]
+*  [VulkanTools](https://github.com/LunarG/VulkanTools) - LunarG's tools including layers and configurator. [Apache Licence 2.0]
 *  [VKtracer](https://www.vktracer.com) - universal and easy-to-use profiler for Vulkan.
 *  [CodeXL](https://github.com/GPUOpen-Tools/CodeXL) - CodeXL goes open source. [MIT]
 *  [Qualcomm Adreno GPU Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools) - samples, Adreno recommendation layer, best practice docs for Adreno GPU.
