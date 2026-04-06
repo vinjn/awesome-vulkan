@@ -18,6 +18,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 * **[Khronos](#khronos)**
 * **[Community](#community)**
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Vulkan graphics workflow orchestration, automated GPU pipeline management, and multi-agent coordination. MIT licensed.
 ## Hardware Support
 *  [gpuinfo](http://vulkan.gpuinfo.org/) - Vulkan Hardware Database by Sascha Willems
 *  [Khronos](https://www.khronos.org/vulkan)
