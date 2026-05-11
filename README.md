@@ -230,6 +230,7 @@ drm/kms.
        * [Vulkan Launchpad Starter](https://github.com/cg-tuwien/VulkanLaunchpadStarter) - Starter template containing additional functionality and assets. [[LICENSE]](https://github.com/cg-tuwien/VulkanLaunchpadStarter/blob/main/LICENSE)
 
 * Other API Interop and Implementations
+   *  [DXVK](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of Direct3D 8, 9, 10 and 11. [zlib]
    *  [visor](https://github.com/baldurk/visor) - Vulkan Ignoble Software Rasterizer. [MIT]
    *  [VulkanOnD3D12](https://github.com/Chabloom/VulkanOnD3D12) - Vulkan API for D3D12. [Apache License 2.0]
    *  [rostkatze](https://github.com/msiglreith/rostkatze) - C++ implementation of Vulkan sitting on D3D12 🐈[Apache License 2.0]
