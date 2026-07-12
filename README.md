@@ -296,6 +296,7 @@ drm/kms.
 *  [Arm - PerfDoc](https://github.com/ARM-software/perfdoc) - a validation layer against the Mali Application Developer Best Practices document. [MIT]
 *  [glsl_trace](https://github.com/azhirnov/glsl_trace) - library for shader debugging and profiling for Vulkan and OpenGL. [MIT]
 *  [MangoHud](https://github.com/flightlessmango/MangoHud) - Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load. [MIT]
+* [GoCL](https://github.com/thee3rdplayer/GoCL) – Zero‑overhead Vulkan proxy and static library that adapts shaders, textures, and indirect draws for older GPUs. [Apache-2.0 OR MIT]  
 
 ## Books
 * [Introduction to Computer Graphics and the Vulkan API](https://www.amazon.com/Introduction-Computer-Graphics-Vulkan-API/dp/1548616176) by **Kenwright** - Introduce the reader to the exciting topic of computer graphics from a grounds-up practical perspective with the Vulkan API.
