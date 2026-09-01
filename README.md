@@ -228,6 +228,7 @@ drm/kms.
    *  [VKFS](https://github.com/MHDtA-dev/VKFS) - Cross-platform easy-to-use C++ framework that allows you to quickly initialize Vulkan and get a ready-made environment. Provides high-level abstraction over basic Vulkan objects.
    *  [Vulkan Launchpad](https://github.com/cg-tuwien/VulkanLaunchpad) - Vulkan framework for Windows, macOS, and Linux. Especially well-suited for Vulkan beginners, used in university education, by the Research Unit of Computer Graphics, TU Wien. [MIT]
        * [Vulkan Launchpad Starter](https://github.com/cg-tuwien/VulkanLaunchpadStarter) - Starter template containing additional functionality and assets. [[LICENSE]](https://github.com/cg-tuwien/VulkanLaunchpadStarter/blob/main/LICENSE)
+   *  [Zodiac Engine](https://github.com/JeanPhilippeKernel/RendererEngine) - Open-source cross-platform 3D rendering engine and editor (ZEngine) written in C++20 with Vulkan. [MIT]
 
 * Other API Interop and Implementations
    *  [visor](https://github.com/baldurk/visor) - Vulkan Ignoble Software Rasterizer. [MIT]
