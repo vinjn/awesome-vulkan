@@ -171,6 +171,7 @@ drm/kms.
 *  [Gears VK](https://github.com/jeffboody/gearsvk) - Gears VK is a heavily modified port of the famous "gears" demo to Vulkan/Android/Linux. [MIT]
 *  [Hello triangle,](https://github.com/maierfelix/VK_KHR_ray_tracing) based on Vulkan Ray Tracing extensions. [MIT]
 *  [Simple Animation Blender](https://github.com/Red1C3/Simple-Animation-Blender) - A real-time 1D animation blender and player using Vulkan as graphical back end and ImGui for GUI. [MIT]
+*  [RustVK](https://github.com/CanReader/RustVK) - Modular Vulkan renderer in Rust, written directly against the raw ash bindings. [MIT]
 
 ## Libraries
 * 2D
