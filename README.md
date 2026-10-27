@@ -355,6 +355,7 @@ drm/kms.
 *  [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 *  [awesome-opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 *  [gamedev](https://github.com/ellisonleao/magictools) - Awesome list about game development.
+*  [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game developers.
 *  [graphics-resources](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 *  [awesome-d3d12](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
 
