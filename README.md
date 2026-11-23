@@ -175,6 +175,7 @@ drm/kms.
 ## Libraries
 * 2D
    *  [imgui](https://github.com/ocornut/imgui) - Immediate Mode Graphical User interface. [MIT]
+   *  [SDLPainter](https://github.com/yazilimperver/sdl-painter) - C++17 2D drawing library for SDL3 with a Vulkan 1.1 backend. [MIT] [website](https://yazilimperver.github.io/sdl-painter/)
    *  [Skia](https://skia.googlesource.com/skia) - Google's 2D graphics library has a [Vulkan](https://skia.org/user/special/vulkan) [backend](https://github.com/google/skia/tree/master/src/gpu/vk), demonstrated in a cross-platform [sample application](https://skia.org/user/sample/viewer) with its own [window library](https://github.com/google/skia/tree/master/tools/viewer). [BSD 3-clause] [website](https://skia.org)
    *  [VKVG](https://github.com/jpbruyere/vkvg) - Vulkan 2D graphics library, API follows the same pattern as Cairo graphics lib, but with new functions.
 
