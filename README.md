@@ -225,6 +225,7 @@ drm/kms.
    *  [Spectrum](https://github.com/mwalczyk/spectrum_core) - Work-in-progress framework and abstraction layer around Vulkan.
    *  [Tephra](https://github.com/Dolkar/Tephra) - A modern C++17 graphics and compute library filling the gap between Vulkan and high-level APIs like OpenGL. [MIT]
    *  [The-Forge](https://github.com/ConfettiFX/The-Forge) - DirectX 12, Vulkan, macOS Metal 2 rendering framework. [Apache License 2.0]
+   *  [ultrafast](https://github.com/ultrafastmov/ultrafast) - GPU video composition engine in Rust. Scenes compile to Slang compute kernels on Vulkan (Metal on macOS), and on NVIDIA frames reach NVENC with no readback. [Apache-2.0 or MIT] [website](https://ultrafast.mov)
    *  [VKFS](https://github.com/MHDtA-dev/VKFS) - Cross-platform easy-to-use C++ framework that allows you to quickly initialize Vulkan and get a ready-made environment. Provides high-level abstraction over basic Vulkan objects.
    *  [Vulkan Launchpad](https://github.com/cg-tuwien/VulkanLaunchpad) - Vulkan framework for Windows, macOS, and Linux. Especially well-suited for Vulkan beginners, used in university education, by the Research Unit of Computer Graphics, TU Wien. [MIT]
        * [Vulkan Launchpad Starter](https://github.com/cg-tuwien/VulkanLaunchpadStarter) - Starter template containing additional functionality and assets. [[LICENSE]](https://github.com/cg-tuwien/VulkanLaunchpadStarter/blob/main/LICENSE)
