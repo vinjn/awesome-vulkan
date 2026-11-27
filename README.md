@@ -223,6 +223,7 @@ drm/kms.
    *  [SDL](https://discourse.libsdl.org/t/sdl-2-0-6-released/23109) - added cross-platform Vulkan graphics support in SDL_vulkan.h. [zlib]
    *  [small3d](https://www.gamedev.net/projects/515-small3d/), Tiny Vulkan based C++ cross-platform game development framework [BSD 3-clause]
    *  [Spectrum](https://github.com/mwalczyk/spectrum_core) - Work-in-progress framework and abstraction layer around Vulkan.
+   *  [Superframe](https://github.com/HarperZ9/superframe) - C++23 Vulkan, Direct3D 12, and WebGPU renderer certified against CPU path-traced references. [FSL-1.1-MIT] [website](https://harperz9.github.io/playground/)
    *  [Tephra](https://github.com/Dolkar/Tephra) - A modern C++17 graphics and compute library filling the gap between Vulkan and high-level APIs like OpenGL. [MIT]
    *  [The-Forge](https://github.com/ConfettiFX/The-Forge) - DirectX 12, Vulkan, macOS Metal 2 rendering framework. [Apache License 2.0]
    *  [VKFS](https://github.com/MHDtA-dev/VKFS) - Cross-platform easy-to-use C++ framework that allows you to quickly initialize Vulkan and get a ready-made environment. Provides high-level abstraction over basic Vulkan objects.
